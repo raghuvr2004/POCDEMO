@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [Suite]" parallel="tests">
+  <parameter name="browser" value="firefox"/>
+  <parameter name="testCaseId" value="TC_05"/>
+  <listeners>
+    <listener class-name="com.newt.selenium.driver.Driver"/>
+  </listeners>
+  <test name="TC_01">
+    <parameter name="testCaseId" value="TC_01"/>
+    <classes>
+      <class name="com.newt.selenium.modules.GmailLoginOnetest"/>
+    </classes>
+  </test> <!-- TC_01 -->
+  <test name="TC_02">
+    <parameter name="testCaseId" value="TC_02"/>
+    <classes>
+      <class name="com.newt.selenium.modules.GmailLoginTwotest"/>
+    </classes>
+  </test> <!-- TC_02 -->
+  <test name="TC_03">
+    <parameter name="testCaseId" value="TC_03"/>
+    <classes>
+      <class name="com.newt.selenium.modules.GmailLoginThreetest"/>
+    </classes>
+  </test> <!-- TC_03 -->
+  <test name="TC_04">
+    <parameter name="testCaseId" value="TC_04"/>
+    <classes>
+      <class name="com.newt.selenium.modules.GmailLoginFourtest"/>
+    </classes>
+  </test> <!-- TC_04 -->
+  <test name="TC_05">
+    <parameter name="testCaseId" value="TC_05"/>
+    <classes>
+      <class name="com.newt.selenium.modules.GmailLoginFivetest"/>
+    </classes>
+  </test> <!-- TC_05 -->
+</suite> <!-- Failed suite [Suite] -->

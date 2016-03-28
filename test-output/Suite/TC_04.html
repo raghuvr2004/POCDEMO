@@ -1,0 +1,109 @@
+<html>
+<head>
+<title>TestNG:  TC_04</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>TC_04</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>1/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Mon Mar 28 11:34:44 IST 2016</td>
+</tr>
+<tr><td>Total time:</td><td>77 seconds (77055 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='com.newt.selenium.modules.GmailLoginFourtest.DO()'><b>DO</b><br>Test class: com.newt.selenium.modules.GmailLoginFourtest<br/>
+<a href="#Output-979610806" onClick='toggleBox("Output-979610806", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-979610806" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-979610806">
+Gmail :: URL launch successfull...<br/>
+Going to log in into the application<br/>
+Data  'TC_03' entered sucessfully in the edit box<br/>
+Error occured while setting data    Newtglobal@123  - org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"id","selector":"Passwd"}
+Command duration or timeout: 10.06 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.49.0', revision: '365eeb4', time: '2016-01-13 18:37:00'
+System info: host: 'Newt-Rnt09', ip: '192.168.1.43', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: c0232c90-e7fa-4080-82e4-6d416f81a4b4
+*** Element info: {Using=id, value=Passwd}<br/>
+signin_btn - having xpath '//input[@id='signIn']'  click failed  - org.openqa.selenium.ElementNotVisibleException: Element is not currently visible and so may not be interacted with
+Command duration or timeout: 10.06 seconds
+Build info: version: '2.49.0', revision: '365eeb4', time: '2016-01-13 18:37:00'
+System info: host: 'Newt-Rnt09', ip: '192.168.1.43', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: c0232c90-e7fa-4080-82e4-6d416f81a4b4<br/>
+</div>
+</td>
+<td></td>
+<td>53</td>
+<td>com.newt.selenium.modules.GmailLoginFourtest@52aa2946</td></tr>
+</table><p>
+</body>
+</html>

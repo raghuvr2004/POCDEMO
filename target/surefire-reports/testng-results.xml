@@ -14,27 +14,16 @@
       <![CDATA[Data  'Newtglobal@123' entered sucessfully in the edit box]]>
     </line>
     <line>
-      <![CDATA[Logout Image - having xpath '//span[@class='gb_Za gbii']'  click failed  - org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//span[@class='gb_Za gbii']"}
-Command duration or timeout: 10.50 seconds
-For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
-Build info: version: '2.48.0', revision: 'b7b081a4f1289f17e8ecd38bc67e137c2a12e34a', time: '2015-10-07 09:50:14'
-System info: host: 'Newt-Rnt09', ip: '172.26.0.212', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
-Driver info: org.openqa.selenium.firefox.FirefoxDriver
-Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
-Session ID: f9ca1280-960c-480b-b7b6-b8482afa758f
-*** Element info: {Using=xpath, value=//span[@class='gb_Za gbii']}]]>
+      <![CDATA[Gmail :: URL launch successfull...]]>
     </line>
     <line>
-      <![CDATA[Sign Out Button - having xpath '//a[text()='Sign out']'  click failed  - org.openqa.selenium.ElementNotVisibleException: Element is not currently visible and so may not be interacted with
-Command duration or timeout: 10.08 seconds
-Build info: version: '2.48.0', revision: 'b7b081a4f1289f17e8ecd38bc67e137c2a12e34a', time: '2015-10-07 09:50:14'
-System info: host: 'Newt-Rnt09', ip: '172.26.0.212', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
-Driver info: org.openqa.selenium.firefox.FirefoxDriver
-Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
-Session ID: f9ca1280-960c-480b-b7b6-b8482afa758f]]>
+      <![CDATA[Going to log in into the application]]>
     </line>
     <line>
-      <![CDATA[Gmail :: App Logout () ::  Logout Successfull...]]>
+      <![CDATA[Data  'newtdemo' entered sucessfully in the edit box]]>
+    </line>
+    <line>
+      <![CDATA[Data  'Newtglobal@123' entered sucessfully in the edit box]]>
     </line>
     <line>
       <![CDATA[Gmail :: URL launch successfull...]]>
@@ -50,26 +39,14 @@ Session ID: f9ca1280-960c-480b-b7b6-b8482afa758f]]>
     </line>
     <line>
       <![CDATA[Logout Image - having xpath '//span[@class='gb_Za gbii']'  click failed  - org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//span[@class='gb_Za gbii']"}
-Command duration or timeout: 10.12 seconds
+Command duration or timeout: 10.69 seconds
 For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
 Build info: version: '2.48.0', revision: 'b7b081a4f1289f17e8ecd38bc67e137c2a12e34a', time: '2015-10-07 09:50:14'
-System info: host: 'Newt-Rnt09', ip: '172.26.0.212', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+System info: host: 'Newt-Rnt09', ip: '192.168.1.43', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
 Driver info: org.openqa.selenium.firefox.FirefoxDriver
 Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
-Session ID: 69e75a74-0829-4cf3-a436-f2f8134adfcd
+Session ID: 2ce89f86-2a43-4a78-aaf8-c9759bcee757
 *** Element info: {Using=xpath, value=//span[@class='gb_Za gbii']}]]>
-    </line>
-    <line>
-      <![CDATA[Sign Out Button - having xpath '//a[text()='Sign out']'  click failed  - org.openqa.selenium.ElementNotVisibleException: Element is not currently visible and so may not be interacted with
-Command duration or timeout: 10.08 seconds
-Build info: version: '2.48.0', revision: 'b7b081a4f1289f17e8ecd38bc67e137c2a12e34a', time: '2015-10-07 09:50:14'
-System info: host: 'Newt-Rnt09', ip: '172.26.0.212', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
-Driver info: org.openqa.selenium.firefox.FirefoxDriver
-Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
-Session ID: 69e75a74-0829-4cf3-a436-f2f8134adfcd]]>
-    </line>
-    <line>
-      <![CDATA[Gmail :: App Logout () ::  Logout Successfull...]]>
     </line>
     <line>
       <![CDATA[Gmail :: URL launch successfull...]]>
@@ -84,109 +61,132 @@ Session ID: 69e75a74-0829-4cf3-a436-f2f8134adfcd]]>
       <![CDATA[Data  'Newtglobal@123' entered sucessfully in the edit box]]>
     </line>
     <line>
-      <![CDATA[Logout Image - having xpath '//span[@class='gb_Za gbii']'  click failed  - org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//span[@class='gb_Za gbii']"}
-Command duration or timeout: 10.07 seconds
-For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
-Build info: version: '2.48.0', revision: 'b7b081a4f1289f17e8ecd38bc67e137c2a12e34a', time: '2015-10-07 09:50:14'
-System info: host: 'Newt-Rnt09', ip: '172.26.0.212', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
-Driver info: org.openqa.selenium.firefox.FirefoxDriver
-Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
-Session ID: 49f0f397-682f-49b8-81b6-efec3f99eb5c
-*** Element info: {Using=xpath, value=//span[@class='gb_Za gbii']}]]>
-    </line>
-    <line>
-      <![CDATA[Sign Out Button - having xpath '//a[text()='Sign out']'  click failed  - org.openqa.selenium.ElementNotVisibleException: Element is not currently visible and so may not be interacted with
-Command duration or timeout: 10.03 seconds
-Build info: version: '2.48.0', revision: 'b7b081a4f1289f17e8ecd38bc67e137c2a12e34a', time: '2015-10-07 09:50:14'
-System info: host: 'Newt-Rnt09', ip: '172.26.0.212', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
-Driver info: org.openqa.selenium.firefox.FirefoxDriver
-Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
-Session ID: 49f0f397-682f-49b8-81b6-efec3f99eb5c]]>
-    </line>
-    <line>
-      <![CDATA[Gmail :: App Logout () ::  Logout Successfull...]]>
-    </line>
-    <line>
       <![CDATA[Gmail :: URL launch successfull...]]>
     </line>
     <line>
       <![CDATA[Going to log in into the application]]>
     </line>
     <line>
-      <![CDATA[Data  'newtdemo' entered sucessfully in the edit box]]>
-    </line>
-    <line>
-      <![CDATA[Data  'Newtglobal@123' entered sucessfully in the edit box]]>
-    </line>
-    <line>
-      <![CDATA[Logout Image - having xpath '//span[@class='gb_Za gbii']'  click failed  - org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//span[@class='gb_Za gbii']"}
-Command duration or timeout: 10.08 seconds
-For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
-Build info: version: '2.48.0', revision: 'b7b081a4f1289f17e8ecd38bc67e137c2a12e34a', time: '2015-10-07 09:50:14'
-System info: host: 'Newt-Rnt09', ip: '172.26.0.212', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
-Driver info: org.openqa.selenium.firefox.FirefoxDriver
-Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
-Session ID: dca0ec1a-9132-4b22-85c0-2012d7070e4f
-*** Element info: {Using=xpath, value=//span[@class='gb_Za gbii']}]]>
-    </line>
-    <line>
       <![CDATA[Sign Out Button - having xpath '//a[text()='Sign out']'  click failed  - org.openqa.selenium.ElementNotVisibleException: Element is not currently visible and so may not be interacted with
-Command duration or timeout: 10.03 seconds
+Command duration or timeout: 10.06 seconds
 Build info: version: '2.48.0', revision: 'b7b081a4f1289f17e8ecd38bc67e137c2a12e34a', time: '2015-10-07 09:50:14'
-System info: host: 'Newt-Rnt09', ip: '172.26.0.212', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+System info: host: 'Newt-Rnt09', ip: '192.168.1.43', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
 Driver info: org.openqa.selenium.firefox.FirefoxDriver
 Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
-Session ID: dca0ec1a-9132-4b22-85c0-2012d7070e4f]]>
+Session ID: 2ce89f86-2a43-4a78-aaf8-c9759bcee757]]>
     </line>
     <line>
       <![CDATA[Gmail :: App Logout () ::  Logout Successfull...]]>
     </line>
     <line>
-      <![CDATA[Gmail :: URL launch successfull...]]>
-    </line>
-    <line>
-      <![CDATA[Going to log in into the application]]>
-    </line>
-    <line>
       <![CDATA[Data  'newtdemo' entered sucessfully in the edit box]]>
+    </line>
+    <line>
+      <![CDATA[Logout Image - having xpath '//span[@class='gb_Za gbii']'  click failed  - org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//span[@class='gb_Za gbii']"}
+Command duration or timeout: 10.93 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.0', revision: 'b7b081a4f1289f17e8ecd38bc67e137c2a12e34a', time: '2015-10-07 09:50:14'
+System info: host: 'Newt-Rnt09', ip: '192.168.1.43', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 5d9cc15f-e61c-407e-8bdd-17712309675c
+*** Element info: {Using=xpath, value=//span[@class='gb_Za gbii']}]]>
     </line>
     <line>
       <![CDATA[Data  'Newtglobal@123' entered sucessfully in the edit box]]>
     </line>
     <line>
       <![CDATA[Logout Image - having xpath '//span[@class='gb_Za gbii']'  click failed  - org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//span[@class='gb_Za gbii']"}
-Command duration or timeout: 10.12 seconds
+Command duration or timeout: 11.08 seconds
 For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
 Build info: version: '2.48.0', revision: 'b7b081a4f1289f17e8ecd38bc67e137c2a12e34a', time: '2015-10-07 09:50:14'
-System info: host: 'Newt-Rnt09', ip: '172.26.0.212', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+System info: host: 'Newt-Rnt09', ip: '192.168.1.43', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
 Driver info: org.openqa.selenium.firefox.FirefoxDriver
 Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
-Session ID: 28fa2d0f-76ad-4dce-b3b3-100dbd3aaec4
+Session ID: 85204a9c-b055-47ff-b365-b7fa25d76371
 *** Element info: {Using=xpath, value=//span[@class='gb_Za gbii']}]]>
+    </line>
+    <line>
+      <![CDATA[Sign Out Button - having xpath '//a[text()='Sign out']'  click failed  - org.openqa.selenium.ElementNotVisibleException: Element is not currently visible and so may not be interacted with
+Command duration or timeout: 10.10 seconds
+Build info: version: '2.48.0', revision: 'b7b081a4f1289f17e8ecd38bc67e137c2a12e34a', time: '2015-10-07 09:50:14'
+System info: host: 'Newt-Rnt09', ip: '192.168.1.43', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 5d9cc15f-e61c-407e-8bdd-17712309675c]]>
+    </line>
+    <line>
+      <![CDATA[Gmail :: App Logout () ::  Logout Successfull...]]>
+    </line>
+    <line>
+      <![CDATA[Logout Image - having xpath '//span[@class='gb_Za gbii']'  click failed  - org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//span[@class='gb_Za gbii']"}
+Command duration or timeout: 10.11 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.0', revision: 'b7b081a4f1289f17e8ecd38bc67e137c2a12e34a', time: '2015-10-07 09:50:14'
+System info: host: 'Newt-Rnt09', ip: '192.168.1.43', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: e84fa0c8-6713-407b-b24d-563b13c51d11
+*** Element info: {Using=xpath, value=//span[@class='gb_Za gbii']}]]>
+    </line>
+    <line>
+      <![CDATA[Sign Out Button - having xpath '//a[text()='Sign out']'  click failed  - org.openqa.selenium.ElementNotVisibleException: Element is not currently visible and so may not be interacted with
+Command duration or timeout: 10.10 seconds
+Build info: version: '2.48.0', revision: 'b7b081a4f1289f17e8ecd38bc67e137c2a12e34a', time: '2015-10-07 09:50:14'
+System info: host: 'Newt-Rnt09', ip: '192.168.1.43', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 85204a9c-b055-47ff-b365-b7fa25d76371]]>
+    </line>
+    <line>
+      <![CDATA[Gmail :: App Logout () ::  Logout Successfull...]]>
     </line>
     <line>
       <![CDATA[Sign Out Button - having xpath '//a[text()='Sign out']'  click failed  - org.openqa.selenium.ElementNotVisibleException: Element is not currently visible and so may not be interacted with
 Command duration or timeout: 10.04 seconds
 Build info: version: '2.48.0', revision: 'b7b081a4f1289f17e8ecd38bc67e137c2a12e34a', time: '2015-10-07 09:50:14'
-System info: host: 'Newt-Rnt09', ip: '172.26.0.212', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+System info: host: 'Newt-Rnt09', ip: '192.168.1.43', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
 Driver info: org.openqa.selenium.firefox.FirefoxDriver
 Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
-Session ID: 28fa2d0f-76ad-4dce-b3b3-100dbd3aaec4]]>
+Session ID: e84fa0c8-6713-407b-b24d-563b13c51d11]]>
+    </line>
+    <line>
+      <![CDATA[Gmail :: App Logout () ::  Logout Successfull...]]>
+    </line>
+    <line>
+      <![CDATA[Logout Image - having xpath '//span[@class='gb_Za gbii']'  click failed  - org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//span[@class='gb_Za gbii']"}
+Command duration or timeout: 10.20 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.0', revision: 'b7b081a4f1289f17e8ecd38bc67e137c2a12e34a', time: '2015-10-07 09:50:14'
+System info: host: 'Newt-Rnt09', ip: '192.168.1.43', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: def05d39-17e0-42b6-9c76-de54169f2d5c
+*** Element info: {Using=xpath, value=//span[@class='gb_Za gbii']}]]>
+    </line>
+    <line>
+      <![CDATA[Sign Out Button - having xpath '//a[text()='Sign out']'  click failed  - org.openqa.selenium.ElementNotVisibleException: Element is not currently visible and so may not be interacted with
+Command duration or timeout: 10.07 seconds
+Build info: version: '2.48.0', revision: 'b7b081a4f1289f17e8ecd38bc67e137c2a12e34a', time: '2015-10-07 09:50:14'
+System info: host: 'Newt-Rnt09', ip: '192.168.1.43', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: def05d39-17e0-42b6-9c76-de54169f2d5c]]>
     </line>
     <line>
       <![CDATA[Gmail :: App Logout () ::  Logout Successfull...]]>
     </line>
   </reporter-output>
-  <suite name="Command line suite" duration-ms="482813" started-at="2016-03-22T07:17:01Z" finished-at="2016-03-22T07:25:04Z">
+  <suite name="Suite" duration-ms="109167" started-at="2016-03-28T10:19:30Z" finished-at="2016-03-28T10:21:20Z">
     <groups>
     </groups>
-    <test name="Command line test" duration-ms="482813" started-at="2016-03-22T07:17:01Z" finished-at="2016-03-22T07:25:04Z">
-      <class name="com.newt.selenium.modules.GmailLoginFourTest">
-        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.newt.selenium.modules.GmailLoginFourTest@4df828d7]" name="beforeMethod" is-config="true" duration-ms="8" started-at="2016-03-22T12:48:40Z" finished-at="2016-03-22T12:48:40Z">
+    <test name="TC_05" duration-ms="63505" started-at="2016-03-28T10:19:30Z" finished-at="2016-03-28T10:20:34Z">
+      <class name="com.newt.selenium.modules.GmailLoginFivetest">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.newt.selenium.modules.GmailLoginFivetest@1b083826]" name="beforeMethod" is-config="true" duration-ms="22" started-at="2016-03-28T15:49:30Z" finished-at="2016-03-28T15:49:30Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="DO()[pri:0, instance:com.newt.selenium.modules.GmailLoginFourTest@4df828d7]" name="DO" duration-ms="39673" started-at="2016-03-22T12:48:40Z" finished-at="2016-03-22T12:49:20Z">
+        <test-method status="PASS" signature="DO()[pri:0, instance:com.newt.selenium.modules.GmailLoginFivetest@1b083826]" name="DO" duration-ms="33927" started-at="2016-03-28T15:49:30Z" finished-at="2016-03-28T15:50:04Z">
           <reporter-output>
             <line>
               <![CDATA[Gmail :: URL launch successfull...]]>
@@ -202,40 +202,42 @@ Session ID: 28fa2d0f-76ad-4dce-b3b3-100dbd3aaec4]]>
             </line>
           </reporter-output>
         </test-method> <!-- DO -->
-        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.newt.selenium.modules.GmailLoginFourTest@4df828d7]" name="afterMethod" is-config="true" duration-ms="24263" started-at="2016-03-22T12:49:20Z" finished-at="2016-03-22T12:49:44Z">
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.newt.selenium.modules.GmailLoginFivetest@1b083826]" name="afterMethod" is-config="true" duration-ms="29541" started-at="2016-03-28T15:50:04Z" finished-at="2016-03-28T15:50:34Z">
           <reporter-output>
             <line>
               <![CDATA[Logout Image - having xpath '//span[@class='gb_Za gbii']'  click failed  - org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//span[@class='gb_Za gbii']"}
-Command duration or timeout: 10.12 seconds
+Command duration or timeout: 10.69 seconds
 For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
 Build info: version: '2.48.0', revision: 'b7b081a4f1289f17e8ecd38bc67e137c2a12e34a', time: '2015-10-07 09:50:14'
-System info: host: 'Newt-Rnt09', ip: '172.26.0.212', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+System info: host: 'Newt-Rnt09', ip: '192.168.1.43', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
 Driver info: org.openqa.selenium.firefox.FirefoxDriver
 Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
-Session ID: 69e75a74-0829-4cf3-a436-f2f8134adfcd
+Session ID: 2ce89f86-2a43-4a78-aaf8-c9759bcee757
 *** Element info: {Using=xpath, value=//span[@class='gb_Za gbii']}]]>
             </line>
             <line>
               <![CDATA[Sign Out Button - having xpath '//a[text()='Sign out']'  click failed  - org.openqa.selenium.ElementNotVisibleException: Element is not currently visible and so may not be interacted with
-Command duration or timeout: 10.08 seconds
+Command duration or timeout: 10.06 seconds
 Build info: version: '2.48.0', revision: 'b7b081a4f1289f17e8ecd38bc67e137c2a12e34a', time: '2015-10-07 09:50:14'
-System info: host: 'Newt-Rnt09', ip: '172.26.0.212', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+System info: host: 'Newt-Rnt09', ip: '192.168.1.43', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
 Driver info: org.openqa.selenium.firefox.FirefoxDriver
 Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
-Session ID: 69e75a74-0829-4cf3-a436-f2f8134adfcd]]>
+Session ID: 2ce89f86-2a43-4a78-aaf8-c9759bcee757]]>
             </line>
             <line>
               <![CDATA[Gmail :: App Logout () ::  Logout Successfull...]]>
             </line>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-      </class> <!-- com.newt.selenium.modules.GmailLoginFourTest -->
-      <class name="com.newt.selenium.modules.GmailLoginTwoTest">
-        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.newt.selenium.modules.GmailLoginTwoTest@11e21d0e]" name="beforeMethod" is-config="true" duration-ms="7" started-at="2016-03-22T12:51:41Z" finished-at="2016-03-22T12:51:41Z">
+      </class> <!-- com.newt.selenium.modules.GmailLoginFivetest -->
+    </test> <!-- TC_05 -->
+    <test name="TC_03" duration-ms="77857" started-at="2016-03-28T10:19:30Z" finished-at="2016-03-28T10:20:48Z">
+      <class name="com.newt.selenium.modules.GmailLoginThreetest">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.newt.selenium.modules.GmailLoginThreetest@52aa2946]" name="beforeMethod" is-config="true" duration-ms="24" started-at="2016-03-28T15:49:30Z" finished-at="2016-03-28T15:49:30Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="DO()[pri:0, instance:com.newt.selenium.modules.GmailLoginTwoTest@11e21d0e]" name="DO" duration-ms="178425" started-at="2016-03-22T12:51:41Z" finished-at="2016-03-22T12:54:40Z">
+        <test-method status="PASS" signature="DO()[pri:0, instance:com.newt.selenium.modules.GmailLoginThreetest@52aa2946]" name="DO" duration-ms="52044" started-at="2016-03-28T15:49:30Z" finished-at="2016-03-28T15:50:22Z">
           <reporter-output>
             <line>
               <![CDATA[Gmail :: URL launch successfull...]]>
@@ -251,40 +253,144 @@ Session ID: 69e75a74-0829-4cf3-a436-f2f8134adfcd]]>
             </line>
           </reporter-output>
         </test-method> <!-- DO -->
-        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.newt.selenium.modules.GmailLoginTwoTest@11e21d0e]" name="afterMethod" is-config="true" duration-ms="24390" started-at="2016-03-22T12:54:40Z" finished-at="2016-03-22T12:55:04Z">
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.newt.selenium.modules.GmailLoginThreetest@52aa2946]" name="afterMethod" is-config="true" duration-ms="25776" started-at="2016-03-28T15:50:22Z" finished-at="2016-03-28T15:50:48Z">
           <reporter-output>
             <line>
               <![CDATA[Logout Image - having xpath '//span[@class='gb_Za gbii']'  click failed  - org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//span[@class='gb_Za gbii']"}
-Command duration or timeout: 10.12 seconds
+Command duration or timeout: 10.93 seconds
 For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
 Build info: version: '2.48.0', revision: 'b7b081a4f1289f17e8ecd38bc67e137c2a12e34a', time: '2015-10-07 09:50:14'
-System info: host: 'Newt-Rnt09', ip: '172.26.0.212', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+System info: host: 'Newt-Rnt09', ip: '192.168.1.43', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
 Driver info: org.openqa.selenium.firefox.FirefoxDriver
 Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
-Session ID: 28fa2d0f-76ad-4dce-b3b3-100dbd3aaec4
+Session ID: 5d9cc15f-e61c-407e-8bdd-17712309675c
+*** Element info: {Using=xpath, value=//span[@class='gb_Za gbii']}]]>
+            </line>
+            <line>
+              <![CDATA[Sign Out Button - having xpath '//a[text()='Sign out']'  click failed  - org.openqa.selenium.ElementNotVisibleException: Element is not currently visible and so may not be interacted with
+Command duration or timeout: 10.10 seconds
+Build info: version: '2.48.0', revision: 'b7b081a4f1289f17e8ecd38bc67e137c2a12e34a', time: '2015-10-07 09:50:14'
+System info: host: 'Newt-Rnt09', ip: '192.168.1.43', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 5d9cc15f-e61c-407e-8bdd-17712309675c]]>
+            </line>
+            <line>
+              <![CDATA[Gmail :: App Logout () ::  Logout Successfull...]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.newt.selenium.modules.GmailLoginThreetest -->
+    </test> <!-- TC_03 -->
+    <test name="TC_02" duration-ms="87776" started-at="2016-03-28T10:19:30Z" finished-at="2016-03-28T10:20:58Z">
+      <class name="com.newt.selenium.modules.GmailLoginTwotest">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.newt.selenium.modules.GmailLoginTwotest@57d5872c]" name="beforeMethod" is-config="true" duration-ms="26" started-at="2016-03-28T15:49:30Z" finished-at="2016-03-28T15:49:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="DO()[pri:0, instance:com.newt.selenium.modules.GmailLoginTwotest@57d5872c]" name="DO" duration-ms="61800" started-at="2016-03-28T15:49:30Z" finished-at="2016-03-28T15:50:32Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Gmail :: URL launch successfull...]]>
+            </line>
+            <line>
+              <![CDATA[Going to log in into the application]]>
+            </line>
+            <line>
+              <![CDATA[Data  'newtdemo' entered sucessfully in the edit box]]>
+            </line>
+            <line>
+              <![CDATA[Data  'Newtglobal@123' entered sucessfully in the edit box]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- DO -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.newt.selenium.modules.GmailLoginTwotest@57d5872c]" name="afterMethod" is-config="true" duration-ms="25937" started-at="2016-03-28T15:50:32Z" finished-at="2016-03-28T15:50:58Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Logout Image - having xpath '//span[@class='gb_Za gbii']'  click failed  - org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//span[@class='gb_Za gbii']"}
+Command duration or timeout: 11.08 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.0', revision: 'b7b081a4f1289f17e8ecd38bc67e137c2a12e34a', time: '2015-10-07 09:50:14'
+System info: host: 'Newt-Rnt09', ip: '192.168.1.43', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 85204a9c-b055-47ff-b365-b7fa25d76371
+*** Element info: {Using=xpath, value=//span[@class='gb_Za gbii']}]]>
+            </line>
+            <line>
+              <![CDATA[Sign Out Button - having xpath '//a[text()='Sign out']'  click failed  - org.openqa.selenium.ElementNotVisibleException: Element is not currently visible and so may not be interacted with
+Command duration or timeout: 10.10 seconds
+Build info: version: '2.48.0', revision: 'b7b081a4f1289f17e8ecd38bc67e137c2a12e34a', time: '2015-10-07 09:50:14'
+System info: host: 'Newt-Rnt09', ip: '192.168.1.43', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 85204a9c-b055-47ff-b365-b7fa25d76371]]>
+            </line>
+            <line>
+              <![CDATA[Gmail :: App Logout () ::  Logout Successfull...]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.newt.selenium.modules.GmailLoginTwotest -->
+    </test> <!-- TC_02 -->
+    <test name="TC_01" duration-ms="93282" started-at="2016-03-28T10:19:30Z" finished-at="2016-03-28T10:21:04Z">
+      <class name="com.newt.selenium.modules.GmailLoginOnetest">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.newt.selenium.modules.GmailLoginOnetest@51b7e5df]" name="beforeMethod" is-config="true" duration-ms="26" started-at="2016-03-28T15:49:30Z" finished-at="2016-03-28T15:49:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="DO()[pri:0, instance:com.newt.selenium.modules.GmailLoginOnetest@51b7e5df]" name="DO" duration-ms="68185" started-at="2016-03-28T15:49:30Z" finished-at="2016-03-28T15:50:39Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Gmail :: URL launch successfull...]]>
+            </line>
+            <line>
+              <![CDATA[Going to log in into the application]]>
+            </line>
+            <line>
+              <![CDATA[Data  'newtdemo' entered sucessfully in the edit box]]>
+            </line>
+            <line>
+              <![CDATA[Data  'Newtglobal@123' entered sucessfully in the edit box]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- DO -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.newt.selenium.modules.GmailLoginOnetest@51b7e5df]" name="afterMethod" is-config="true" duration-ms="25057" started-at="2016-03-28T15:50:39Z" finished-at="2016-03-28T15:51:04Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Logout Image - having xpath '//span[@class='gb_Za gbii']'  click failed  - org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//span[@class='gb_Za gbii']"}
+Command duration or timeout: 10.11 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.0', revision: 'b7b081a4f1289f17e8ecd38bc67e137c2a12e34a', time: '2015-10-07 09:50:14'
+System info: host: 'Newt-Rnt09', ip: '192.168.1.43', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: e84fa0c8-6713-407b-b24d-563b13c51d11
 *** Element info: {Using=xpath, value=//span[@class='gb_Za gbii']}]]>
             </line>
             <line>
               <![CDATA[Sign Out Button - having xpath '//a[text()='Sign out']'  click failed  - org.openqa.selenium.ElementNotVisibleException: Element is not currently visible and so may not be interacted with
 Command duration or timeout: 10.04 seconds
 Build info: version: '2.48.0', revision: 'b7b081a4f1289f17e8ecd38bc67e137c2a12e34a', time: '2015-10-07 09:50:14'
-System info: host: 'Newt-Rnt09', ip: '172.26.0.212', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+System info: host: 'Newt-Rnt09', ip: '192.168.1.43', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
 Driver info: org.openqa.selenium.firefox.FirefoxDriver
 Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
-Session ID: 28fa2d0f-76ad-4dce-b3b3-100dbd3aaec4]]>
+Session ID: e84fa0c8-6713-407b-b24d-563b13c51d11]]>
             </line>
             <line>
               <![CDATA[Gmail :: App Logout () ::  Logout Successfull...]]>
             </line>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-      </class> <!-- com.newt.selenium.modules.GmailLoginTwoTest -->
-      <class name="com.newt.selenium.modules.GmailLoginThreeTest">
-        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.newt.selenium.modules.GmailLoginThreeTest@62fdb4a6]" name="beforeMethod" is-config="true" duration-ms="9" started-at="2016-03-22T12:50:43Z" finished-at="2016-03-22T12:50:43Z">
+      </class> <!-- com.newt.selenium.modules.GmailLoginOnetest -->
+    </test> <!-- TC_01 -->
+    <test name="TC_04" duration-ms="109165" started-at="2016-03-28T10:19:30Z" finished-at="2016-03-28T10:21:20Z">
+      <class name="com.newt.selenium.modules.GmailLoginFourtest">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.newt.selenium.modules.GmailLoginFourtest@45f45fa1]" name="beforeMethod" is-config="true" duration-ms="19" started-at="2016-03-28T15:49:30Z" finished-at="2016-03-28T15:49:30Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="DO()[pri:0, instance:com.newt.selenium.modules.GmailLoginThreeTest@62fdb4a6]" name="DO" duration-ms="34896" started-at="2016-03-22T12:50:43Z" finished-at="2016-03-22T12:51:18Z">
+        <test-method status="PASS" signature="DO()[pri:0, instance:com.newt.selenium.modules.GmailLoginFourtest@45f45fa1]" name="DO" duration-ms="85040" started-at="2016-03-28T15:49:30Z" finished-at="2016-03-28T15:50:55Z">
           <reporter-output>
             <line>
               <![CDATA[Gmail :: URL launch successfull...]]>
@@ -300,132 +406,34 @@ Session ID: 28fa2d0f-76ad-4dce-b3b3-100dbd3aaec4]]>
             </line>
           </reporter-output>
         </test-method> <!-- DO -->
-        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.newt.selenium.modules.GmailLoginThreeTest@62fdb4a6]" name="afterMethod" is-config="true" duration-ms="23838" started-at="2016-03-22T12:51:18Z" finished-at="2016-03-22T12:51:41Z">
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.newt.selenium.modules.GmailLoginFourtest@45f45fa1]" name="afterMethod" is-config="true" duration-ms="24095" started-at="2016-03-28T15:50:55Z" finished-at="2016-03-28T15:51:20Z">
           <reporter-output>
             <line>
               <![CDATA[Logout Image - having xpath '//span[@class='gb_Za gbii']'  click failed  - org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//span[@class='gb_Za gbii']"}
-Command duration or timeout: 10.08 seconds
+Command duration or timeout: 10.20 seconds
 For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
 Build info: version: '2.48.0', revision: 'b7b081a4f1289f17e8ecd38bc67e137c2a12e34a', time: '2015-10-07 09:50:14'
-System info: host: 'Newt-Rnt09', ip: '172.26.0.212', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+System info: host: 'Newt-Rnt09', ip: '192.168.1.43', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
 Driver info: org.openqa.selenium.firefox.FirefoxDriver
 Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
-Session ID: dca0ec1a-9132-4b22-85c0-2012d7070e4f
+Session ID: def05d39-17e0-42b6-9c76-de54169f2d5c
 *** Element info: {Using=xpath, value=//span[@class='gb_Za gbii']}]]>
             </line>
             <line>
               <![CDATA[Sign Out Button - having xpath '//a[text()='Sign out']'  click failed  - org.openqa.selenium.ElementNotVisibleException: Element is not currently visible and so may not be interacted with
-Command duration or timeout: 10.03 seconds
-Build info: version: '2.48.0', revision: 'b7b081a4f1289f17e8ecd38bc67e137c2a12e34a', time: '2015-10-07 09:50:14'
-System info: host: 'Newt-Rnt09', ip: '172.26.0.212', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
-Driver info: org.openqa.selenium.firefox.FirefoxDriver
-Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
-Session ID: dca0ec1a-9132-4b22-85c0-2012d7070e4f]]>
-            </line>
-            <line>
-              <![CDATA[Gmail :: App Logout () ::  Logout Successfull...]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- afterMethod -->
-      </class> <!-- com.newt.selenium.modules.GmailLoginThreeTest -->
-      <class name="com.newt.selenium.modules.GmailLoginFiveTest">
-        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.newt.selenium.modules.GmailLoginFiveTest@5e25a92e]" name="beforeMethod" is-config="true" duration-ms="145" started-at="2016-03-22T12:47:01Z" finished-at="2016-03-22T12:47:02Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="DO()[pri:0, instance:com.newt.selenium.modules.GmailLoginFiveTest@5e25a92e]" name="DO" duration-ms="73259" started-at="2016-03-22T12:47:02Z" finished-at="2016-03-22T12:48:15Z">
-          <reporter-output>
-            <line>
-              <![CDATA[Gmail :: URL launch successfull...]]>
-            </line>
-            <line>
-              <![CDATA[Going to log in into the application]]>
-            </line>
-            <line>
-              <![CDATA[Data  'newtdemo' entered sucessfully in the edit box]]>
-            </line>
-            <line>
-              <![CDATA[Data  'Newtglobal@123' entered sucessfully in the edit box]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- DO -->
-        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.newt.selenium.modules.GmailLoginFiveTest@5e25a92e]" name="afterMethod" is-config="true" duration-ms="25074" started-at="2016-03-22T12:48:15Z" finished-at="2016-03-22T12:48:40Z">
-          <reporter-output>
-            <line>
-              <![CDATA[Logout Image - having xpath '//span[@class='gb_Za gbii']'  click failed  - org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//span[@class='gb_Za gbii']"}
-Command duration or timeout: 10.50 seconds
-For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
-Build info: version: '2.48.0', revision: 'b7b081a4f1289f17e8ecd38bc67e137c2a12e34a', time: '2015-10-07 09:50:14'
-System info: host: 'Newt-Rnt09', ip: '172.26.0.212', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
-Driver info: org.openqa.selenium.firefox.FirefoxDriver
-Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
-Session ID: f9ca1280-960c-480b-b7b6-b8482afa758f
-*** Element info: {Using=xpath, value=//span[@class='gb_Za gbii']}]]>
-            </line>
-            <line>
-              <![CDATA[Sign Out Button - having xpath '//a[text()='Sign out']'  click failed  - org.openqa.selenium.ElementNotVisibleException: Element is not currently visible and so may not be interacted with
-Command duration or timeout: 10.08 seconds
-Build info: version: '2.48.0', revision: 'b7b081a4f1289f17e8ecd38bc67e137c2a12e34a', time: '2015-10-07 09:50:14'
-System info: host: 'Newt-Rnt09', ip: '172.26.0.212', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
-Driver info: org.openqa.selenium.firefox.FirefoxDriver
-Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
-Session ID: f9ca1280-960c-480b-b7b6-b8482afa758f]]>
-            </line>
-            <line>
-              <![CDATA[Gmail :: App Logout () ::  Logout Successfull...]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- afterMethod -->
-      </class> <!-- com.newt.selenium.modules.GmailLoginFiveTest -->
-      <class name="com.newt.selenium.modules.GmailLoginTest">
-        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.newt.selenium.modules.GmailLoginTest@b59d31]" name="beforeMethod" is-config="true" duration-ms="16" started-at="2016-03-22T12:49:44Z" finished-at="2016-03-22T12:49:44Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="DO()[pri:0, instance:com.newt.selenium.modules.GmailLoginTest@b59d31]" name="DO" duration-ms="35031" started-at="2016-03-22T12:49:44Z" finished-at="2016-03-22T12:50:19Z">
-          <reporter-output>
-            <line>
-              <![CDATA[Gmail :: URL launch successfull...]]>
-            </line>
-            <line>
-              <![CDATA[Going to log in into the application]]>
-            </line>
-            <line>
-              <![CDATA[Data  'newtdemo' entered sucessfully in the edit box]]>
-            </line>
-            <line>
-              <![CDATA[Data  'Newtglobal@123' entered sucessfully in the edit box]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- DO -->
-        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.newt.selenium.modules.GmailLoginTest@b59d31]" name="afterMethod" is-config="true" duration-ms="23764" started-at="2016-03-22T12:50:19Z" finished-at="2016-03-22T12:50:43Z">
-          <reporter-output>
-            <line>
-              <![CDATA[Logout Image - having xpath '//span[@class='gb_Za gbii']'  click failed  - org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//span[@class='gb_Za gbii']"}
 Command duration or timeout: 10.07 seconds
-For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
 Build info: version: '2.48.0', revision: 'b7b081a4f1289f17e8ecd38bc67e137c2a12e34a', time: '2015-10-07 09:50:14'
-System info: host: 'Newt-Rnt09', ip: '172.26.0.212', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+System info: host: 'Newt-Rnt09', ip: '192.168.1.43', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
 Driver info: org.openqa.selenium.firefox.FirefoxDriver
 Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
-Session ID: 49f0f397-682f-49b8-81b6-efec3f99eb5c
-*** Element info: {Using=xpath, value=//span[@class='gb_Za gbii']}]]>
-            </line>
-            <line>
-              <![CDATA[Sign Out Button - having xpath '//a[text()='Sign out']'  click failed  - org.openqa.selenium.ElementNotVisibleException: Element is not currently visible and so may not be interacted with
-Command duration or timeout: 10.03 seconds
-Build info: version: '2.48.0', revision: 'b7b081a4f1289f17e8ecd38bc67e137c2a12e34a', time: '2015-10-07 09:50:14'
-System info: host: 'Newt-Rnt09', ip: '172.26.0.212', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
-Driver info: org.openqa.selenium.firefox.FirefoxDriver
-Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
-Session ID: 49f0f397-682f-49b8-81b6-efec3f99eb5c]]>
+Session ID: def05d39-17e0-42b6-9c76-de54169f2d5c]]>
             </line>
             <line>
               <![CDATA[Gmail :: App Logout () ::  Logout Successfull...]]>
             </line>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-      </class> <!-- com.newt.selenium.modules.GmailLoginTest -->
-    </test> <!-- Command line test -->
-  </suite> <!-- Command line suite -->
+      </class> <!-- com.newt.selenium.modules.GmailLoginFourtest -->
+    </test> <!-- TC_04 -->
+  </suite> <!-- Suite -->
 </testng-results>

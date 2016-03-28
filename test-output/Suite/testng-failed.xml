@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" parallel="tests">
+  <parameter name="browser" value="firefox"/>
+  <parameter name="testCaseId" value="TC_05"/>
+  <listeners>
+    <listener class-name="com.newt.selenium.driver.Driver"/>
+  </listeners>
+  <test name="TC_03(failed)" parallel="tests">
+    <parameter name="testCaseId" value="TC_03"/>
+    <classes>
+      <class name="com.newt.selenium.modules.GmailLoginTwotest">
+        <methods>
+          <include name="afterMethod"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- com.newt.selenium.modules.GmailLoginTwotest -->
+      <class name="com.newt.selenium.modules.GmailLoginThreetest">
+        <methods>
+          <include name="DO"/>
+          <include name="afterMethod"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- com.newt.selenium.modules.GmailLoginThreetest -->
+      <class name="com.newt.selenium.modules.GmailLoginFivetest">
+        <methods>
+          <include name="afterMethod"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- com.newt.selenium.modules.GmailLoginFivetest -->
+      <class name="com.newt.selenium.modules.GmailLoginFourtest">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- com.newt.selenium.modules.GmailLoginFourtest -->
+      <class name="com.newt.selenium.modules.GmailLoginOnetest">
+        <methods>
+          <include name="afterMethod"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- com.newt.selenium.modules.GmailLoginOnetest -->
+    </classes>
+  </test> <!-- TC_03(failed) -->
+</suite> <!-- Failed suite [Suite] -->

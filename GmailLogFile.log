@@ -3184,3 +3184,1716 @@ Session ID: 28fa2d0f-76ad-4dce-b3b3-100dbd3aaec4
 2016-03-22 12:55:04,123 INFO  [Log] X 
 2016-03-22 12:55:04,123 INFO  [Log] X 
 2016-03-22 12:55:04,124 INFO  [Log] X 
+2016-03-24 12:15:50,107 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Start Execution       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-03-24 12:15:50,116 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-03-24 12:15:50,116 INFO  [Log] GMAIL_LOGIN :: beforeClass() method invoked... 
+2016-03-24 12:15:50,709 INFO  [Log] Executing Test Case TC_05 
+2016-03-24 12:15:50,710 INFO  [Log] Launching url 
+2016-03-24 12:15:58,175 INFO  [Log] New driver instantiated 
+2016-03-24 12:16:43,587 ERROR [Log] Gmail :: Url launch failed () :: Exception:org.openqa.selenium.remote.UnreachableBrowserException: Error communicating with the remote browser. It may have died.
+Build info: version: '2.48.0', revision: 'b7b081a4f1289f17e8ecd38bc67e137c2a12e34a', time: '2015-10-07 09:50:14'
+System info: host: 'Newt-Rnt09', ip: '192.168.1.43', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: driver.version: RemoteWebDriver 
+2016-03-24 12:16:45,209 INFO  [Log] GMAIL_LOGIN :: afterClass() method invoked... 
+2016-03-24 12:16:45,209 INFO  [Log] Gmail :: App Logout () method invoked... 
+2016-03-24 12:16:47,276 ERROR [Log] Logout Image - having xpath '//span[@class='gb_Za gbii']'  click failed  - org.openqa.selenium.remote.UnreachableBrowserException: Error communicating with the remote browser. It may have died.
+Build info: version: '2.48.0', revision: 'b7b081a4f1289f17e8ecd38bc67e137c2a12e34a', time: '2015-10-07 09:50:14'
+System info: host: 'Newt-Rnt09', ip: '192.168.1.43', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: driver.version: RemoteWebDriver 
+2016-03-24 12:16:52,335 ERROR [Log] Sign Out Button - having xpath '//a[text()='Sign out']'  click failed  - org.openqa.selenium.remote.UnreachableBrowserException: Error communicating with the remote browser. It may have died.
+Build info: version: '2.48.0', revision: 'b7b081a4f1289f17e8ecd38bc67e137c2a12e34a', time: '2015-10-07 09:50:14'
+System info: host: 'Newt-Rnt09', ip: '192.168.1.43', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: driver.version: RemoteWebDriver 
+2016-03-24 12:16:52,338 INFO  [Log] Gmail :: App Logout () :: Logout Successfull... 
+2016-03-24 12:16:53,353 ERROR [Log] Gmail :: App Logout () :: Exception:org.openqa.selenium.remote.UnreachableBrowserException: Error communicating with the remote browser. It may have died.
+Build info: version: '2.48.0', revision: 'b7b081a4f1289f17e8ecd38bc67e137c2a12e34a', time: '2015-10-07 09:50:14'
+System info: host: 'Newt-Rnt09', ip: '192.168.1.43', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: driver.version: FirefoxDriver 
+2016-03-24 12:16:53,355 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-03-24 12:16:53,355 INFO  [Log] X 
+2016-03-24 12:16:53,355 INFO  [Log] X 
+2016-03-24 12:16:53,355 INFO  [Log] X 
+2016-03-24 12:16:53,355 INFO  [Log] X 
+2016-03-24 12:16:54,983 ERROR [Log] GMAIL_LOGIN :: App Logout failed () :: Exception:org.openqa.selenium.remote.UnreachableBrowserException: Error communicating with the remote browser. It may have died.
+Build info: version: '2.48.0', revision: 'b7b081a4f1289f17e8ecd38bc67e137c2a12e34a', time: '2015-10-07 09:50:14'
+System info: host: 'Newt-Rnt09', ip: '192.168.1.43', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: driver.version: RemoteWebDriver 
+2016-03-24 12:16:54,983 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-03-24 12:16:54,983 INFO  [Log] X 
+2016-03-24 12:16:54,983 INFO  [Log] X 
+2016-03-24 12:16:54,983 INFO  [Log] X 
+2016-03-24 12:16:54,983 INFO  [Log] X 
+2016-03-24 12:16:55,453 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Start Execution       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-03-24 12:16:55,453 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-03-24 12:16:55,453 INFO  [Log] GMAIL_LOGIN :: beforeClass() method invoked... 
+2016-03-24 12:16:55,486 INFO  [Log] Executing Test Case TC_04 
+2016-03-24 12:16:55,486 INFO  [Log] Launching url 
+2016-03-24 12:17:01,238 INFO  [Log] New driver instantiated 
+2016-03-24 12:17:44,411 INFO  [Log] Gmail :: URL launch successfull... 
+2016-03-24 12:17:44,910 INFO  [Log] Gmail :: App login invoked ()... 
+2016-03-24 12:17:46,203 INFO  [Log] Data  'newtdemo' entered sucessfully in the edit box 
+2016-03-24 12:17:46,340 INFO  [Log] login_next_btn - having xpath '//input[@id='next']' clicked sucessfully 
+2016-03-24 12:17:47,820 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Start Execution       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-03-24 12:17:47,821 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-03-24 12:17:47,821 INFO  [Log] GMAIL_LOGIN :: beforeClass() method invoked... 
+2016-03-24 12:17:48,480 INFO  [Log] Executing Test Case TC_05 
+2016-03-24 12:17:48,481 INFO  [Log] Launching url 
+2016-03-24 12:17:49,561 INFO  [Log] Data  'Newtglobal@123' entered sucessfully in the edit box 
+2016-03-24 12:17:50,212 INFO  [Log] signin_btn - having xpath '//input[@id='signIn']' clicked sucessfully 
+2016-03-24 12:17:54,919 INFO  [Log] New driver instantiated 
+2016-03-24 12:18:04,494 INFO  [Log] GMAIL_LOGIN :: afterClass() method invoked... 
+2016-03-24 12:18:04,495 INFO  [Log] Gmail :: App Logout () method invoked... 
+2016-03-24 12:18:14,692 ERROR [Log] Logout Image - having xpath '//span[@class='gb_Za gbii']'  click failed  - org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//span[@class='gb_Za gbii']"}
+Command duration or timeout: 10.06 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.0', revision: 'b7b081a4f1289f17e8ecd38bc67e137c2a12e34a', time: '2015-10-07 09:50:14'
+System info: host: 'Newt-Rnt09', ip: '192.168.1.43', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 4ce850b4-1cd0-4220-9e7b-ce7117310bcb
+*** Element info: {Using=xpath, value=//span[@class='gb_Za gbii']} 
+2016-03-24 12:18:27,952 ERROR [Log] Sign Out Button - having xpath '//a[text()='Sign out']'  click failed  - org.openqa.selenium.ElementNotVisibleException: Element is not currently visible and so may not be interacted with
+Command duration or timeout: 10.10 seconds
+Build info: version: '2.48.0', revision: 'b7b081a4f1289f17e8ecd38bc67e137c2a12e34a', time: '2015-10-07 09:50:14'
+System info: host: 'Newt-Rnt09', ip: '192.168.1.43', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 4ce850b4-1cd0-4220-9e7b-ce7117310bcb 
+2016-03-24 12:18:27,952 INFO  [Log] Gmail :: App Logout () :: Logout Successfull... 
+2016-03-24 12:18:27,963 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-03-24 12:18:27,963 INFO  [Log] X 
+2016-03-24 12:18:27,963 INFO  [Log] X 
+2016-03-24 12:18:27,963 INFO  [Log] X 
+2016-03-24 12:18:27,963 INFO  [Log] X 
+2016-03-24 12:18:28,505 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Start Execution       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-03-24 12:18:28,505 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-03-24 12:18:28,506 INFO  [Log] GMAIL_LOGIN :: beforeClass() method invoked... 
+2016-03-24 12:18:28,538 INFO  [Log] Executing Test Case TC_01 
+2016-03-24 12:18:28,538 INFO  [Log] Launching url 
+2016-03-24 12:18:34,509 INFO  [Log] New driver instantiated 
+2016-03-24 12:18:35,462 INFO  [Log] Gmail :: URL launch successfull... 
+2016-03-24 12:18:37,214 INFO  [Log] Gmail :: App login invoked ()... 
+2016-03-24 12:18:37,428 INFO  [Log] Data  'newtdemo' entered sucessfully in the edit box 
+2016-03-24 12:18:37,515 INFO  [Log] login_next_btn - having xpath '//input[@id='next']' clicked sucessfully 
+2016-03-24 12:18:40,708 INFO  [Log] Data  'Newtglobal@123' entered sucessfully in the edit box 
+2016-03-24 12:18:41,269 INFO  [Log] signin_btn - having xpath '//input[@id='signIn']' clicked sucessfully 
+2016-03-24 12:18:54,655 INFO  [Log] GMAIL_LOGIN :: afterClass() method invoked... 
+2016-03-24 12:18:54,655 INFO  [Log] Gmail :: App Logout () method invoked... 
+2016-03-24 12:19:04,916 ERROR [Log] Logout Image - having xpath '//span[@class='gb_Za gbii']'  click failed  - org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//span[@class='gb_Za gbii']"}
+Command duration or timeout: 10.13 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.0', revision: 'b7b081a4f1289f17e8ecd38bc67e137c2a12e34a', time: '2015-10-07 09:50:14'
+System info: host: 'Newt-Rnt09', ip: '192.168.1.43', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 04e63eb9-1f76-4211-a41a-5ff5ce8ced21
+*** Element info: {Using=xpath, value=//span[@class='gb_Za gbii']} 
+2016-03-24 12:19:18,208 ERROR [Log] Sign Out Button - having xpath '//a[text()='Sign out']'  click failed  - org.openqa.selenium.ElementNotVisibleException: Element is not currently visible and so may not be interacted with
+Command duration or timeout: 10.11 seconds
+Build info: version: '2.48.0', revision: 'b7b081a4f1289f17e8ecd38bc67e137c2a12e34a', time: '2015-10-07 09:50:14'
+System info: host: 'Newt-Rnt09', ip: '192.168.1.43', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 04e63eb9-1f76-4211-a41a-5ff5ce8ced21 
+2016-03-24 12:19:18,209 INFO  [Log] Gmail :: App Logout () :: Logout Successfull... 
+2016-03-24 12:19:18,218 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-03-24 12:19:18,218 INFO  [Log] X 
+2016-03-24 12:19:18,218 INFO  [Log] X 
+2016-03-24 12:19:18,218 INFO  [Log] X 
+2016-03-24 12:19:18,218 INFO  [Log] X 
+2016-03-24 12:19:19,311 INFO  [Log] Gmail :: URL launch successfull... 
+2016-03-24 12:19:19,482 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Start Execution       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-03-24 12:19:19,482 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-03-24 12:19:19,482 INFO  [Log] GMAIL_LOGIN :: beforeClass() method invoked... 
+2016-03-24 12:19:19,524 INFO  [Log] Executing Test Case TC_04 
+2016-03-24 12:19:19,525 INFO  [Log] Launching url 
+2016-03-24 12:19:19,762 INFO  [Log] Gmail :: App login invoked ()... 
+2016-03-24 12:19:21,186 INFO  [Log] Data  'newtdemo' entered sucessfully in the edit box 
+2016-03-24 12:19:21,271 INFO  [Log] login_next_btn - having xpath '//input[@id='next']' clicked sucessfully 
+2016-03-24 12:19:24,427 INFO  [Log] Data  'Newtglobal@123' entered sucessfully in the edit box 
+2016-03-24 12:19:25,153 INFO  [Log] signin_btn - having xpath '//input[@id='signIn']' clicked sucessfully 
+2016-03-24 12:19:25,617 INFO  [Log] New driver instantiated 
+2016-03-24 12:19:33,457 INFO  [Log] Gmail :: URL launch successfull... 
+2016-03-24 12:19:33,822 INFO  [Log] Gmail :: App login invoked ()... 
+2016-03-24 12:19:35,368 INFO  [Log] Data  'newtdemo' entered sucessfully in the edit box 
+2016-03-24 12:19:35,462 INFO  [Log] login_next_btn - having xpath '//input[@id='next']' clicked sucessfully 
+2016-03-24 12:19:38,396 INFO  [Log] GMAIL_LOGIN :: afterClass() method invoked... 
+2016-03-24 12:19:38,396 INFO  [Log] Gmail :: App Logout () method invoked... 
+2016-03-24 12:19:38,635 INFO  [Log] Data  'Newtglobal@123' entered sucessfully in the edit box 
+2016-03-24 12:19:39,145 INFO  [Log] signin_btn - having xpath '//input[@id='signIn']' clicked sucessfully 
+2016-03-24 12:19:48,646 ERROR [Log] Logout Image - having xpath '//span[@class='gb_Za gbii']'  click failed  - org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//span[@class='gb_Za gbii']"}
+Command duration or timeout: 10.11 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.0', revision: 'b7b081a4f1289f17e8ecd38bc67e137c2a12e34a', time: '2015-10-07 09:50:14'
+System info: host: 'Newt-Rnt09', ip: '192.168.1.43', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 2feeb32d-c8b6-4df8-91e1-6a75c462886d
+*** Element info: {Using=xpath, value=//span[@class='gb_Za gbii']} 
+2016-03-24 12:19:52,469 INFO  [Log] GMAIL_LOGIN :: afterClass() method invoked... 
+2016-03-24 12:19:52,469 INFO  [Log] Gmail :: App Logout () method invoked... 
+2016-03-24 12:20:01,950 ERROR [Log] Sign Out Button - having xpath '//a[text()='Sign out']'  click failed  - org.openqa.selenium.ElementNotVisibleException: Element is not currently visible and so may not be interacted with
+Command duration or timeout: 10.10 seconds
+Build info: version: '2.48.0', revision: 'b7b081a4f1289f17e8ecd38bc67e137c2a12e34a', time: '2015-10-07 09:50:14'
+System info: host: 'Newt-Rnt09', ip: '192.168.1.43', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 2feeb32d-c8b6-4df8-91e1-6a75c462886d 
+2016-03-24 12:20:01,950 INFO  [Log] Gmail :: App Logout () :: Logout Successfull... 
+2016-03-24 12:20:01,957 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-03-24 12:20:01,957 INFO  [Log] X 
+2016-03-24 12:20:01,957 INFO  [Log] X 
+2016-03-24 12:20:01,957 INFO  [Log] X 
+2016-03-24 12:20:01,957 INFO  [Log] X 
+2016-03-24 12:20:02,495 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Start Execution       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-03-24 12:20:02,495 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-03-24 12:20:02,495 INFO  [Log] GMAIL_LOGIN :: beforeClass() method invoked... 
+2016-03-24 12:20:02,542 INFO  [Log] Executing Test Case TC_03 
+2016-03-24 12:20:02,542 INFO  [Log] Launching url 
+2016-03-24 12:20:02,654 ERROR [Log] Logout Image - having xpath '//span[@class='gb_Za gbii']'  click failed  - org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//span[@class='gb_Za gbii']"}
+Command duration or timeout: 10.05 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.0', revision: 'b7b081a4f1289f17e8ecd38bc67e137c2a12e34a', time: '2015-10-07 09:50:14'
+System info: host: 'Newt-Rnt09', ip: '192.168.1.43', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: ef96582b-0d0e-4e2e-bbe8-7e7f9720516c
+*** Element info: {Using=xpath, value=//span[@class='gb_Za gbii']} 
+2016-03-24 12:20:06,769 INFO  [Log] New driver instantiated 
+2016-03-24 12:20:15,882 ERROR [Log] Sign Out Button - having xpath '//a[text()='Sign out']'  click failed  - org.openqa.selenium.ElementNotVisibleException: Element is not currently visible and so may not be interacted with
+Command duration or timeout: 10.02 seconds
+Build info: version: '2.48.0', revision: 'b7b081a4f1289f17e8ecd38bc67e137c2a12e34a', time: '2015-10-07 09:50:14'
+System info: host: 'Newt-Rnt09', ip: '192.168.1.43', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: ef96582b-0d0e-4e2e-bbe8-7e7f9720516c 
+2016-03-24 12:20:15,883 INFO  [Log] Gmail :: App Logout () :: Logout Successfull... 
+2016-03-24 12:20:15,891 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-03-24 12:20:15,892 INFO  [Log] X 
+2016-03-24 12:20:15,892 INFO  [Log] X 
+2016-03-24 12:20:15,892 INFO  [Log] X 
+2016-03-24 12:20:15,892 INFO  [Log] X 
+2016-03-24 12:20:16,324 INFO  [Log] Gmail :: URL launch successfull... 
+2016-03-24 12:20:16,496 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Start Execution       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-03-24 12:20:16,496 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-03-24 12:20:16,496 INFO  [Log] GMAIL_LOGIN :: beforeClass() method invoked... 
+2016-03-24 12:20:16,548 INFO  [Log] Executing Test Case TC_01 
+2016-03-24 12:20:16,548 INFO  [Log] Launching url 
+2016-03-24 12:20:16,731 INFO  [Log] Gmail :: App login invoked ()... 
+2016-03-24 12:20:16,935 INFO  [Log] Data  'newtdemo' entered sucessfully in the edit box 
+2016-03-24 12:20:17,017 INFO  [Log] login_next_btn - having xpath '//input[@id='next']' clicked sucessfully 
+2016-03-24 12:20:20,188 INFO  [Log] Data  'Newtglobal@123' entered sucessfully in the edit box 
+2016-03-24 12:20:20,699 INFO  [Log] signin_btn - having xpath '//input[@id='signIn']' clicked sucessfully 
+2016-03-24 12:20:22,398 INFO  [Log] New driver instantiated 
+2016-03-24 12:20:33,921 INFO  [Log] GMAIL_LOGIN :: afterClass() method invoked... 
+2016-03-24 12:20:33,921 INFO  [Log] Gmail :: App Logout () method invoked... 
+2016-03-24 12:20:44,113 ERROR [Log] Logout Image - having xpath '//span[@class='gb_Za gbii']'  click failed  - org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//span[@class='gb_Za gbii']"}
+Command duration or timeout: 10.07 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.0', revision: 'b7b081a4f1289f17e8ecd38bc67e137c2a12e34a', time: '2015-10-07 09:50:14'
+System info: host: 'Newt-Rnt09', ip: '192.168.1.43', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 69eaf9a3-dd2c-44f0-b093-0d2add2a0bf9
+*** Element info: {Using=xpath, value=//span[@class='gb_Za gbii']} 
+2016-03-24 12:20:57,290 ERROR [Log] Sign Out Button - having xpath '//a[text()='Sign out']'  click failed  - org.openqa.selenium.ElementNotVisibleException: Element is not currently visible and so may not be interacted with
+Command duration or timeout: 10.03 seconds
+Build info: version: '2.48.0', revision: 'b7b081a4f1289f17e8ecd38bc67e137c2a12e34a', time: '2015-10-07 09:50:14'
+System info: host: 'Newt-Rnt09', ip: '192.168.1.43', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 69eaf9a3-dd2c-44f0-b093-0d2add2a0bf9 
+2016-03-24 12:20:57,291 INFO  [Log] Gmail :: App Logout () :: Logout Successfull... 
+2016-03-24 12:20:57,300 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-03-24 12:20:57,300 INFO  [Log] X 
+2016-03-24 12:20:57,300 INFO  [Log] X 
+2016-03-24 12:20:57,300 INFO  [Log] X 
+2016-03-24 12:20:57,300 INFO  [Log] X 
+2016-03-24 12:20:57,736 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Start Execution       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-03-24 12:20:57,736 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-03-24 12:20:57,736 INFO  [Log] GMAIL_LOGIN :: beforeClass() method invoked... 
+2016-03-24 12:20:57,769 INFO  [Log] Executing Test Case TC_02 
+2016-03-24 12:20:57,770 INFO  [Log] Launching url 
+2016-03-24 12:21:02,492 INFO  [Log] New driver instantiated 
+2016-03-24 12:21:10,075 INFO  [Log] Gmail :: URL launch successfull... 
+2016-03-24 12:21:10,461 INFO  [Log] Gmail :: App login invoked ()... 
+2016-03-24 12:21:10,661 INFO  [Log] Data  'newtdemo' entered sucessfully in the edit box 
+2016-03-24 12:21:10,761 INFO  [Log] login_next_btn - having xpath '//input[@id='next']' clicked sucessfully 
+2016-03-24 12:21:13,932 INFO  [Log] Data  'Newtglobal@123' entered sucessfully in the edit box 
+2016-03-24 12:21:14,423 INFO  [Log] signin_btn - having xpath '//input[@id='signIn']' clicked sucessfully 
+2016-03-24 12:21:27,664 INFO  [Log] GMAIL_LOGIN :: afterClass() method invoked... 
+2016-03-24 12:21:27,664 INFO  [Log] Gmail :: App Logout () method invoked... 
+2016-03-24 12:21:37,905 ERROR [Log] Logout Image - having xpath '//span[@class='gb_Za gbii']'  click failed  - org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//span[@class='gb_Za gbii']"}
+Command duration or timeout: 10.13 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.0', revision: 'b7b081a4f1289f17e8ecd38bc67e137c2a12e34a', time: '2015-10-07 09:50:14'
+System info: host: 'Newt-Rnt09', ip: '192.168.1.43', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: cc8f26df-cf52-49ba-8447-7473873ba418
+*** Element info: {Using=xpath, value=//span[@class='gb_Za gbii']} 
+2016-03-24 12:21:51,158 ERROR [Log] Sign Out Button - having xpath '//a[text()='Sign out']'  click failed  - org.openqa.selenium.ElementNotVisibleException: Element is not currently visible and so may not be interacted with
+Command duration or timeout: 10.10 seconds
+Build info: version: '2.48.0', revision: 'b7b081a4f1289f17e8ecd38bc67e137c2a12e34a', time: '2015-10-07 09:50:14'
+System info: host: 'Newt-Rnt09', ip: '192.168.1.43', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: cc8f26df-cf52-49ba-8447-7473873ba418 
+2016-03-24 12:21:51,159 INFO  [Log] Gmail :: App Logout () :: Logout Successfull... 
+2016-03-24 12:21:51,166 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-03-24 12:21:51,166 INFO  [Log] X 
+2016-03-24 12:21:51,166 INFO  [Log] X 
+2016-03-24 12:21:51,166 INFO  [Log] X 
+2016-03-24 12:21:51,166 INFO  [Log] X 
+2016-03-24 12:23:57,769 INFO  [Log] Gmail :: URL launch successfull... 
+2016-03-24 12:23:58,153 INFO  [Log] Gmail :: App login invoked ()... 
+2016-03-24 12:23:58,354 INFO  [Log] Data  'newtdemo' entered sucessfully in the edit box 
+2016-03-24 12:23:58,439 INFO  [Log] login_next_btn - having xpath '//input[@id='next']' clicked sucessfully 
+2016-03-24 12:24:01,636 INFO  [Log] Data  'Newtglobal@123' entered sucessfully in the edit box 
+2016-03-24 12:24:02,161 INFO  [Log] signin_btn - having xpath '//input[@id='signIn']' clicked sucessfully 
+2016-03-24 12:24:15,500 INFO  [Log] GMAIL_LOGIN :: afterClass() method invoked... 
+2016-03-24 12:24:15,500 INFO  [Log] Gmail :: App Logout () method invoked... 
+2016-03-24 12:24:25,673 ERROR [Log] Logout Image - having xpath '//span[@class='gb_Za gbii']'  click failed  - org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//span[@class='gb_Za gbii']"}
+Command duration or timeout: 10.06 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.0', revision: 'b7b081a4f1289f17e8ecd38bc67e137c2a12e34a', time: '2015-10-07 09:50:14'
+System info: host: 'Newt-Rnt09', ip: '192.168.1.43', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 2ff9a81f-9c59-431f-8f66-45d8984f2b21
+*** Element info: {Using=xpath, value=//span[@class='gb_Za gbii']} 
+2016-03-24 12:24:38,856 ERROR [Log] Sign Out Button - having xpath '//a[text()='Sign out']'  click failed  - org.openqa.selenium.ElementNotVisibleException: Element is not currently visible and so may not be interacted with
+Command duration or timeout: 10.02 seconds
+Build info: version: '2.48.0', revision: 'b7b081a4f1289f17e8ecd38bc67e137c2a12e34a', time: '2015-10-07 09:50:14'
+System info: host: 'Newt-Rnt09', ip: '192.168.1.43', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 2ff9a81f-9c59-431f-8f66-45d8984f2b21 
+2016-03-24 12:24:38,856 INFO  [Log] Gmail :: App Logout () :: Logout Successfull... 
+2016-03-24 12:24:38,866 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-03-24 12:24:38,866 INFO  [Log] X 
+2016-03-24 12:24:38,866 INFO  [Log] X 
+2016-03-24 12:24:38,866 INFO  [Log] X 
+2016-03-24 12:24:38,866 INFO  [Log] X 
+2016-03-24 12:24:39,469 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Start Execution       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-03-24 12:24:39,469 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-03-24 12:24:39,469 INFO  [Log] GMAIL_LOGIN :: beforeClass() method invoked... 
+2016-03-24 12:24:39,493 INFO  [Log] Executing Test Case TC_03 
+2016-03-24 12:24:39,493 INFO  [Log] Launching url 
+2016-03-24 12:24:44,107 INFO  [Log] New driver instantiated 
+2016-03-24 12:24:49,716 INFO  [Log] Gmail :: URL launch successfull... 
+2016-03-24 12:24:51,279 INFO  [Log] Gmail :: App login invoked ()... 
+2016-03-24 12:24:51,472 INFO  [Log] Data  'newtdemo' entered sucessfully in the edit box 
+2016-03-24 12:24:51,558 INFO  [Log] login_next_btn - having xpath '//input[@id='next']' clicked sucessfully 
+2016-03-24 12:24:54,709 INFO  [Log] Data  'Newtglobal@123' entered sucessfully in the edit box 
+2016-03-24 12:24:55,448 INFO  [Log] signin_btn - having xpath '//input[@id='signIn']' clicked sucessfully 
+2016-03-24 12:25:08,976 INFO  [Log] GMAIL_LOGIN :: afterClass() method invoked... 
+2016-03-24 12:25:08,976 INFO  [Log] Gmail :: App Logout () method invoked... 
+2016-03-24 12:25:19,165 ERROR [Log] Logout Image - having xpath '//span[@class='gb_Za gbii']'  click failed  - org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//span[@class='gb_Za gbii']"}
+Command duration or timeout: 10.07 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.0', revision: 'b7b081a4f1289f17e8ecd38bc67e137c2a12e34a', time: '2015-10-07 09:50:14'
+System info: host: 'Newt-Rnt09', ip: '192.168.1.43', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 7868fff6-9516-422d-99d9-7c85f5dfdb51
+*** Element info: {Using=xpath, value=//span[@class='gb_Za gbii']} 
+2016-03-24 12:25:32,440 ERROR [Log] Sign Out Button - having xpath '//a[text()='Sign out']'  click failed  - org.openqa.selenium.ElementNotVisibleException: Element is not currently visible and so may not be interacted with
+Command duration or timeout: 10.11 seconds
+Build info: version: '2.48.0', revision: 'b7b081a4f1289f17e8ecd38bc67e137c2a12e34a', time: '2015-10-07 09:50:14'
+System info: host: 'Newt-Rnt09', ip: '192.168.1.43', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 7868fff6-9516-422d-99d9-7c85f5dfdb51 
+2016-03-24 12:25:32,440 INFO  [Log] Gmail :: App Logout () :: Logout Successfull... 
+2016-03-24 12:25:32,447 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-03-24 12:25:32,447 INFO  [Log] X 
+2016-03-24 12:25:32,447 INFO  [Log] X 
+2016-03-24 12:25:32,447 INFO  [Log] X 
+2016-03-24 12:25:32,447 INFO  [Log] X 
+2016-03-24 12:25:32,877 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Start Execution       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-03-24 12:25:32,877 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-03-24 12:25:32,877 INFO  [Log] GMAIL_LOGIN :: beforeClass() method invoked... 
+2016-03-24 12:25:32,894 INFO  [Log] Executing Test Case TC_02 
+2016-03-24 12:25:32,895 INFO  [Log] Launching url 
+2016-03-24 12:25:37,742 INFO  [Log] New driver instantiated 
+2016-03-24 12:25:42,949 INFO  [Log] Gmail :: URL launch successfull... 
+2016-03-24 12:25:44,232 INFO  [Log] Gmail :: App login invoked ()... 
+2016-03-24 12:25:44,473 INFO  [Log] Data  'newtdemo' entered sucessfully in the edit box 
+2016-03-24 12:25:44,543 INFO  [Log] login_next_btn - having xpath '//input[@id='next']' clicked sucessfully 
+2016-03-24 12:25:47,718 INFO  [Log] Data  'Newtglobal@123' entered sucessfully in the edit box 
+2016-03-24 12:25:48,266 INFO  [Log] signin_btn - having xpath '//input[@id='signIn']' clicked sucessfully 
+2016-03-24 12:26:01,473 INFO  [Log] GMAIL_LOGIN :: afterClass() method invoked... 
+2016-03-24 12:26:01,474 INFO  [Log] Gmail :: App Logout () method invoked... 
+2016-03-24 12:26:11,617 ERROR [Log] Logout Image - having xpath '//span[@class='gb_Za gbii']'  click failed  - org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//span[@class='gb_Za gbii']"}
+Command duration or timeout: 10.03 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.0', revision: 'b7b081a4f1289f17e8ecd38bc67e137c2a12e34a', time: '2015-10-07 09:50:14'
+System info: host: 'Newt-Rnt09', ip: '192.168.1.43', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: b0b3ab34-8697-49c9-9bf3-1fa8fcdbfdba
+*** Element info: {Using=xpath, value=//span[@class='gb_Za gbii']} 
+2016-03-24 12:26:24,905 ERROR [Log] Sign Out Button - having xpath '//a[text()='Sign out']'  click failed  - org.openqa.selenium.ElementNotVisibleException: Element is not currently visible and so may not be interacted with
+Command duration or timeout: 10.11 seconds
+Build info: version: '2.48.0', revision: 'b7b081a4f1289f17e8ecd38bc67e137c2a12e34a', time: '2015-10-07 09:50:14'
+System info: host: 'Newt-Rnt09', ip: '192.168.1.43', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: b0b3ab34-8697-49c9-9bf3-1fa8fcdbfdba 
+2016-03-24 12:26:24,905 INFO  [Log] Gmail :: App Logout () :: Logout Successfull... 
+2016-03-24 12:26:24,911 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-03-24 12:26:24,911 INFO  [Log] X 
+2016-03-24 12:26:24,911 INFO  [Log] X 
+2016-03-24 12:26:24,911 INFO  [Log] X 
+2016-03-24 12:26:24,911 INFO  [Log] X 
+2016-03-24 15:24:37,917 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Start Execution       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-03-24 15:24:37,918 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-03-24 15:24:37,918 INFO  [Log] GMAIL_LOGIN :: beforeClass() method invoked... 
+2016-03-24 15:24:38,436 INFO  [Log] Executing Test Case TC_05 
+2016-03-24 15:24:38,437 INFO  [Log] Launching url 
+2016-03-24 15:24:44,438 INFO  [Log] New driver instantiated 
+2016-03-24 15:24:53,482 INFO  [Log] Gmail :: URL launch successfull... 
+2016-03-24 15:24:55,592 INFO  [Log] Gmail :: App login invoked ()... 
+2016-03-24 15:24:56,226 INFO  [Log] Data  'newtdemo' entered sucessfully in the edit box 
+2016-03-24 15:24:56,316 INFO  [Log] login_next_btn - having xpath '//input[@id='next']' clicked sucessfully 
+2016-03-24 15:24:59,553 INFO  [Log] Data  'Newtglobal@123' entered sucessfully in the edit box 
+2016-03-24 15:25:00,590 INFO  [Log] signin_btn - having xpath '//input[@id='signIn']' clicked sucessfully 
+2016-03-24 15:25:14,023 INFO  [Log] GMAIL_LOGIN :: afterClass() method invoked... 
+2016-03-24 15:25:14,024 INFO  [Log] Gmail :: App Logout () method invoked... 
+2016-03-24 15:25:24,271 ERROR [Log] Logout Image - having xpath '//span[@class='gb_Za gbii']'  click failed  - org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//span[@class='gb_Za gbii']"}
+Command duration or timeout: 10.09 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.0', revision: 'b7b081a4f1289f17e8ecd38bc67e137c2a12e34a', time: '2015-10-07 09:50:14'
+System info: host: 'Newt-Rnt09', ip: '192.168.1.43', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 373d6271-ac1e-4e1e-95b5-b5ef61dd8fa0
+*** Element info: {Using=xpath, value=//span[@class='gb_Za gbii']} 
+2016-03-24 15:25:37,509 ERROR [Log] Sign Out Button - having xpath '//a[text()='Sign out']'  click failed  - org.openqa.selenium.ElementNotVisibleException: Element is not currently visible and so may not be interacted with
+Command duration or timeout: 10.03 seconds
+Build info: version: '2.48.0', revision: 'b7b081a4f1289f17e8ecd38bc67e137c2a12e34a', time: '2015-10-07 09:50:14'
+System info: host: 'Newt-Rnt09', ip: '192.168.1.43', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 373d6271-ac1e-4e1e-95b5-b5ef61dd8fa0 
+2016-03-24 15:25:37,509 INFO  [Log] Gmail :: App Logout () :: Logout Successfull... 
+2016-03-24 15:25:37,518 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-03-24 15:25:37,518 INFO  [Log] X 
+2016-03-24 15:25:37,518 INFO  [Log] X 
+2016-03-24 15:25:37,518 INFO  [Log] X 
+2016-03-24 15:25:37,518 INFO  [Log] X 
+2016-03-24 15:25:38,665 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Start Execution       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-03-24 15:25:38,665 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-03-24 15:25:38,665 INFO  [Log] GMAIL_LOGIN :: beforeClass() method invoked... 
+2016-03-24 15:25:38,711 INFO  [Log] Executing Test Case TC_04 
+2016-03-24 15:25:38,711 INFO  [Log] Launching url 
+2016-03-24 15:25:43,883 INFO  [Log] New driver instantiated 
+2016-03-24 15:26:19,752 INFO  [Log] Gmail :: URL launch successfull... 
+2016-03-24 15:26:20,192 INFO  [Log] Gmail :: App login invoked ()... 
+2016-03-24 15:26:20,410 INFO  [Log] Data  'newtdemo' entered sucessfully in the edit box 
+2016-03-24 15:26:20,493 INFO  [Log] login_next_btn - having xpath '//input[@id='next']' clicked sucessfully 
+2016-03-24 15:26:23,739 INFO  [Log] Data  'Newtglobal@123' entered sucessfully in the edit box 
+2016-03-24 15:26:24,284 INFO  [Log] signin_btn - having xpath '//input[@id='signIn']' clicked sucessfully 
+2016-03-24 15:26:37,591 INFO  [Log] GMAIL_LOGIN :: afterClass() method invoked... 
+2016-03-24 15:26:37,591 INFO  [Log] Gmail :: App Logout () method invoked... 
+2016-03-24 15:26:47,768 ERROR [Log] Logout Image - having xpath '//span[@class='gb_Za gbii']'  click failed  - org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//span[@class='gb_Za gbii']"}
+Command duration or timeout: 10.03 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.0', revision: 'b7b081a4f1289f17e8ecd38bc67e137c2a12e34a', time: '2015-10-07 09:50:14'
+System info: host: 'Newt-Rnt09', ip: '192.168.1.43', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: e622201d-7567-4eaa-820a-58745ac6905f
+*** Element info: {Using=xpath, value=//span[@class='gb_Za gbii']} 
+2016-03-24 15:27:01,063 ERROR [Log] Sign Out Button - having xpath '//a[text()='Sign out']'  click failed  - org.openqa.selenium.ElementNotVisibleException: Element is not currently visible and so may not be interacted with
+Command duration or timeout: 10.05 seconds
+Build info: version: '2.48.0', revision: 'b7b081a4f1289f17e8ecd38bc67e137c2a12e34a', time: '2015-10-07 09:50:14'
+System info: host: 'Newt-Rnt09', ip: '192.168.1.43', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: e622201d-7567-4eaa-820a-58745ac6905f 
+2016-03-24 15:27:01,064 INFO  [Log] Gmail :: App Logout () :: Logout Successfull... 
+2016-03-24 15:27:01,070 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-03-24 15:27:01,070 INFO  [Log] X 
+2016-03-24 15:27:01,070 INFO  [Log] X 
+2016-03-24 15:27:01,070 INFO  [Log] X 
+2016-03-24 15:27:01,070 INFO  [Log] X 
+2016-03-24 15:27:01,542 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Start Execution       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-03-24 15:27:01,542 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-03-24 15:27:01,542 INFO  [Log] GMAIL_LOGIN :: beforeClass() method invoked... 
+2016-03-24 15:27:01,573 INFO  [Log] Executing Test Case TC_01 
+2016-03-24 15:27:01,574 INFO  [Log] Launching url 
+2016-03-24 15:27:07,358 INFO  [Log] New driver instantiated 
+2016-03-24 15:27:51,906 INFO  [Log] Gmail :: URL launch successfull... 
+2016-03-24 15:27:52,260 INFO  [Log] Gmail :: App login invoked ()... 
+2016-03-24 15:27:52,477 INFO  [Log] Data  'newtdemo' entered sucessfully in the edit box 
+2016-03-24 15:27:52,562 INFO  [Log] login_next_btn - having xpath '//input[@id='next']' clicked sucessfully 
+2016-03-24 15:27:55,757 INFO  [Log] Data  'Newtglobal@123' entered sucessfully in the edit box 
+2016-03-24 15:27:56,286 INFO  [Log] signin_btn - having xpath '//input[@id='signIn']' clicked sucessfully 
+2016-03-24 15:28:09,571 INFO  [Log] GMAIL_LOGIN :: afterClass() method invoked... 
+2016-03-24 15:28:09,571 INFO  [Log] Gmail :: App Logout () method invoked... 
+2016-03-24 15:28:19,822 ERROR [Log] Logout Image - having xpath '//span[@class='gb_Za gbii']'  click failed  - org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//span[@class='gb_Za gbii']"}
+Command duration or timeout: 10.05 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.0', revision: 'b7b081a4f1289f17e8ecd38bc67e137c2a12e34a', time: '2015-10-07 09:50:14'
+System info: host: 'Newt-Rnt09', ip: '192.168.1.43', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 90e62868-0634-4c6b-8a8c-66d60d5e3f7f
+*** Element info: {Using=xpath, value=//span[@class='gb_Za gbii']} 
+2016-03-24 15:28:33,180 ERROR [Log] Sign Out Button - having xpath '//a[text()='Sign out']'  click failed  - org.openqa.selenium.ElementNotVisibleException: Element is not currently visible and so may not be interacted with
+Command duration or timeout: 10.11 seconds
+Build info: version: '2.48.0', revision: 'b7b081a4f1289f17e8ecd38bc67e137c2a12e34a', time: '2015-10-07 09:50:14'
+System info: host: 'Newt-Rnt09', ip: '192.168.1.43', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 90e62868-0634-4c6b-8a8c-66d60d5e3f7f 
+2016-03-24 15:28:33,180 INFO  [Log] Gmail :: App Logout () :: Logout Successfull... 
+2016-03-24 15:28:33,192 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-03-24 15:28:33,192 INFO  [Log] X 
+2016-03-24 15:28:33,192 INFO  [Log] X 
+2016-03-24 15:28:33,192 INFO  [Log] X 
+2016-03-24 15:28:33,192 INFO  [Log] X 
+2016-03-24 15:28:33,811 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Start Execution       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-03-24 15:28:33,811 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-03-24 15:28:33,812 INFO  [Log] GMAIL_LOGIN :: beforeClass() method invoked... 
+2016-03-24 15:28:33,842 INFO  [Log] Executing Test Case TC_03 
+2016-03-24 15:28:33,842 INFO  [Log] Launching url 
+2016-03-24 15:28:39,727 INFO  [Log] New driver instantiated 
+2016-03-24 15:32:17,623 INFO  [Log] Gmail :: URL launch successfull... 
+2016-03-24 15:32:17,961 INFO  [Log] Gmail :: App login invoked ()... 
+2016-03-24 15:32:18,180 INFO  [Log] Data  'newtdemo' entered sucessfully in the edit box 
+2016-03-24 15:32:18,264 INFO  [Log] login_next_btn - having xpath '//input[@id='next']' clicked sucessfully 
+2016-03-24 15:32:21,462 INFO  [Log] Data  'Newtglobal@123' entered sucessfully in the edit box 
+2016-03-24 15:32:22,093 INFO  [Log] signin_btn - having xpath '//input[@id='signIn']' clicked sucessfully 
+2016-03-24 15:32:35,533 INFO  [Log] GMAIL_LOGIN :: afterClass() method invoked... 
+2016-03-24 15:32:35,533 INFO  [Log] Gmail :: App Logout () method invoked... 
+2016-03-24 15:32:45,758 ERROR [Log] Logout Image - having xpath '//span[@class='gb_Za gbii']'  click failed  - org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//span[@class='gb_Za gbii']"}
+Command duration or timeout: 10.07 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.0', revision: 'b7b081a4f1289f17e8ecd38bc67e137c2a12e34a', time: '2015-10-07 09:50:14'
+System info: host: 'Newt-Rnt09', ip: '192.168.1.43', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 78df9b66-7fdb-46f9-9532-6f1111f9ddd5
+*** Element info: {Using=xpath, value=//span[@class='gb_Za gbii']} 
+2016-03-24 15:32:58,965 ERROR [Log] Sign Out Button - having xpath '//a[text()='Sign out']'  click failed  - org.openqa.selenium.ElementNotVisibleException: Element is not currently visible and so may not be interacted with
+Command duration or timeout: 10.02 seconds
+Build info: version: '2.48.0', revision: 'b7b081a4f1289f17e8ecd38bc67e137c2a12e34a', time: '2015-10-07 09:50:14'
+System info: host: 'Newt-Rnt09', ip: '192.168.1.43', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 78df9b66-7fdb-46f9-9532-6f1111f9ddd5 
+2016-03-24 15:32:58,966 INFO  [Log] Gmail :: App Logout () :: Logout Successfull... 
+2016-03-24 15:32:58,973 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-03-24 15:32:58,973 INFO  [Log] X 
+2016-03-24 15:32:58,973 INFO  [Log] X 
+2016-03-24 15:32:58,973 INFO  [Log] X 
+2016-03-24 15:32:58,973 INFO  [Log] X 
+2016-03-24 15:32:59,764 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Start Execution       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-03-24 15:32:59,764 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-03-24 15:32:59,764 INFO  [Log] GMAIL_LOGIN :: beforeClass() method invoked... 
+2016-03-24 15:32:59,801 INFO  [Log] Executing Test Case TC_02 
+2016-03-24 15:32:59,802 INFO  [Log] Launching url 
+2016-03-24 15:33:05,291 INFO  [Log] New driver instantiated 
+2016-03-24 15:33:17,816 INFO  [Log] Gmail :: URL launch successfull... 
+2016-03-24 15:33:18,242 INFO  [Log] Gmail :: App login invoked ()... 
+2016-03-24 15:33:19,177 INFO  [Log] Data  'newtdemo' entered sucessfully in the edit box 
+2016-03-24 15:33:19,322 INFO  [Log] login_next_btn - having xpath '//input[@id='next']' clicked sucessfully 
+2016-03-24 15:33:22,636 INFO  [Log] Data  'Newtglobal@123' entered sucessfully in the edit box 
+2016-03-24 15:33:23,256 INFO  [Log] signin_btn - having xpath '//input[@id='signIn']' clicked sucessfully 
+2016-03-24 15:33:37,379 INFO  [Log] GMAIL_LOGIN :: afterClass() method invoked... 
+2016-03-24 15:33:37,379 INFO  [Log] Gmail :: App Logout () method invoked... 
+2016-03-24 15:33:47,702 ERROR [Log] Logout Image - having xpath '//span[@class='gb_Za gbii']'  click failed  - org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//span[@class='gb_Za gbii']"}
+Command duration or timeout: 10.06 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.0', revision: 'b7b081a4f1289f17e8ecd38bc67e137c2a12e34a', time: '2015-10-07 09:50:14'
+System info: host: 'Newt-Rnt09', ip: '192.168.1.43', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 2d02fd6a-61b2-4833-8fff-6094da2d1426
+*** Element info: {Using=xpath, value=//span[@class='gb_Za gbii']} 
+2016-03-24 15:34:01,033 ERROR [Log] Sign Out Button - having xpath '//a[text()='Sign out']'  click failed  - org.openqa.selenium.ElementNotVisibleException: Element is not currently visible and so may not be interacted with
+Command duration or timeout: 10.12 seconds
+Build info: version: '2.48.0', revision: 'b7b081a4f1289f17e8ecd38bc67e137c2a12e34a', time: '2015-10-07 09:50:14'
+System info: host: 'Newt-Rnt09', ip: '192.168.1.43', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 2d02fd6a-61b2-4833-8fff-6094da2d1426 
+2016-03-24 15:34:01,033 INFO  [Log] Gmail :: App Logout () :: Logout Successfull... 
+2016-03-24 15:34:01,038 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-03-24 15:34:01,039 INFO  [Log] X 
+2016-03-24 15:34:01,039 INFO  [Log] X 
+2016-03-24 15:34:01,039 INFO  [Log] X 
+2016-03-24 15:34:01,039 INFO  [Log] X 
+2016-03-28 11:10:46,884 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Start Execution       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-03-28 11:10:46,884 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Start Execution       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-03-28 11:10:46,939 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Start Execution       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-03-28 11:10:46,939 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Start Execution       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-03-28 11:10:46,939 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-03-28 11:10:46,940 INFO  [Log] GMAIL_LOGIN :: beforeClass() method invoked... 
+2016-03-28 11:10:46,938 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Start Execution       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-03-28 11:10:46,937 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-03-28 11:10:46,940 INFO  [Log] GMAIL_LOGIN :: beforeClass() method invoked... 
+2016-03-28 11:10:46,940 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-03-28 11:10:46,940 INFO  [Log] GMAIL_LOGIN :: beforeClass() method invoked... 
+2016-03-28 11:10:46,939 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-03-28 11:10:46,940 INFO  [Log] GMAIL_LOGIN :: beforeClass() method invoked... 
+2016-03-28 11:10:46,939 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-03-28 11:10:46,940 INFO  [Log] GMAIL_LOGIN :: beforeClass() method invoked... 
+2016-03-28 11:10:48,508 INFO  [Log] Executing Test Case TC_02 
+2016-03-28 11:10:48,510 INFO  [Log] Launching url 
+2016-03-28 11:10:48,514 INFO  [Log] Executing Test Case TC_03 
+2016-03-28 11:10:48,514 INFO  [Log] Launching url 
+2016-03-28 11:10:48,509 INFO  [Log] Executing Test Case TC_01 
+2016-03-28 11:10:48,522 INFO  [Log] Launching url 
+2016-03-28 11:10:48,526 INFO  [Log] Executing Test Case TC_04 
+2016-03-28 11:10:48,526 INFO  [Log] Launching url 
+2016-03-28 11:10:48,536 INFO  [Log] Executing Test Case TC_05 
+2016-03-28 11:10:48,537 INFO  [Log] Launching url 
+2016-03-28 11:10:58,984 INFO  [Log] New driver instantiated 
+2016-03-28 11:11:00,098 INFO  [Log] Gmail :: URL launch successfull... 
+2016-03-28 11:11:07,509 INFO  [Log] Gmail :: App login invoked ()... 
+2016-03-28 11:11:08,160 INFO  [Log] Data  'newtdemo' entered sucessfully in the edit box 
+2016-03-28 11:11:08,277 INFO  [Log] login_next_btn - having xpath '//input[@id='next']' clicked sucessfully 
+2016-03-28 11:11:08,483 INFO  [Log] New driver instantiated 
+2016-03-28 11:11:10,198 INFO  [Log] Gmail :: URL launch successfull... 
+2016-03-28 11:11:11,504 INFO  [Log] Data  'Newtglobal@123' entered sucessfully in the edit box 
+2016-03-28 11:11:12,521 INFO  [Log] Gmail :: App login invoked ()... 
+2016-03-28 11:11:12,532 INFO  [Log] signin_btn - having xpath '//input[@id='signIn']' clicked sucessfully 
+2016-03-28 11:11:16,016 INFO  [Log] Data  'newtdemo' entered sucessfully in the edit box 
+2016-03-28 11:11:16,159 INFO  [Log] login_next_btn - having xpath '//input[@id='next']' clicked sucessfully 
+2016-03-28 11:11:19,522 INFO  [Log] Data  'Newtglobal@123' entered sucessfully in the edit box 
+2016-03-28 11:11:20,440 INFO  [Log] signin_btn - having xpath '//input[@id='signIn']' clicked sucessfully 
+2016-03-28 11:11:20,685 INFO  [Log] New driver instantiated 
+2016-03-28 11:11:21,196 INFO  [Log] Gmail :: URL launch successfull... 
+2016-03-28 11:11:24,905 INFO  [Log] Gmail :: App login invoked ()... 
+2016-03-28 11:11:26,045 INFO  [Log] Data  'newtdemo' entered sucessfully in the edit box 
+2016-03-28 11:11:26,302 INFO  [Log] login_next_btn - having xpath '//input[@id='next']' clicked sucessfully 
+2016-03-28 11:11:29,087 INFO  [Log] GMAIL_LOGIN :: afterClass() method invoked... 
+2016-03-28 11:11:29,087 INFO  [Log] Gmail :: App Logout () method invoked... 
+2016-03-28 11:11:29,629 INFO  [Log] Data  'Newtglobal@123' entered sucessfully in the edit box 
+2016-03-28 11:11:30,334 INFO  [Log] signin_btn - having xpath '//input[@id='signIn']' clicked sucessfully 
+2016-03-28 11:11:31,779 INFO  [Log] New driver instantiated 
+2016-03-28 11:11:33,787 INFO  [Log] Gmail :: URL launch successfull... 
+2016-03-28 11:11:34,494 INFO  [Log] GMAIL_LOGIN :: afterClass() method invoked... 
+2016-03-28 11:11:34,497 INFO  [Log] Gmail :: App Logout () method invoked... 
+2016-03-28 11:11:36,704 INFO  [Log] Gmail :: App login invoked ()... 
+2016-03-28 11:11:38,511 INFO  [Log] Data  'newtdemo' entered sucessfully in the edit box 
+2016-03-28 11:11:38,697 INFO  [Log] login_next_btn - having xpath '//input[@id='next']' clicked sucessfully 
+2016-03-28 11:11:39,425 ERROR [Log] Logout Image - having xpath '//span[@class='gb_Za gbii']'  click failed  - org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//span[@class='gb_Za gbii']"}
+Command duration or timeout: 10.03 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.49.0', revision: '365eeb4', time: '2016-01-13 18:37:00'
+System info: host: 'Newt-Rnt09', ip: '192.168.1.43', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 58caf1d6-99c2-4fba-88aa-54fe5535a101
+*** Element info: {Using=xpath, value=//span[@class='gb_Za gbii']} 
+2016-03-28 11:11:41,954 INFO  [Log] Data  'Newtglobal@123' entered sucessfully in the edit box 
+2016-03-28 11:11:43,103 INFO  [Log] New driver instantiated 
+2016-03-28 11:11:43,581 INFO  [Log] signin_btn - having xpath '//input[@id='signIn']' clicked sucessfully 
+2016-03-28 11:11:44,036 INFO  [Log] Gmail :: URL launch successfull... 
+2016-03-28 11:11:44,885 ERROR [Log] Logout Image - having xpath '//span[@class='gb_Za gbii']'  click failed  - org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//span[@class='gb_Za gbii']"}
+Command duration or timeout: 10.08 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.49.0', revision: '365eeb4', time: '2016-01-13 18:37:00'
+System info: host: 'Newt-Rnt09', ip: '192.168.1.43', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 924e64d0-9eec-4b2b-9f88-5040dcb4357f
+*** Element info: {Using=xpath, value=//span[@class='gb_Za gbii']} 
+2016-03-28 11:11:46,074 INFO  [Log] Gmail :: App login invoked ()... 
+2016-03-28 11:11:47,863 INFO  [Log] Data  'newtdemo' entered sucessfully in the edit box 
+2016-03-28 11:11:47,970 INFO  [Log] GMAIL_LOGIN :: afterClass() method invoked... 
+2016-03-28 11:11:47,970 INFO  [Log] Gmail :: App Logout () method invoked... 
+2016-03-28 11:11:48,021 INFO  [Log] login_next_btn - having xpath '//input[@id='next']' clicked sucessfully 
+2016-03-28 11:11:51,285 INFO  [Log] Data  'Newtglobal@123' entered sucessfully in the edit box 
+2016-03-28 11:11:52,024 INFO  [Log] signin_btn - having xpath '//input[@id='signIn']' clicked sucessfully 
+2016-03-28 11:11:52,738 ERROR [Log] Sign Out Button - having xpath '//a[text()='Sign out']'  click failed  - org.openqa.selenium.ElementNotVisibleException: Element is not currently visible and so may not be interacted with
+Command duration or timeout: 10.10 seconds
+Build info: version: '2.49.0', revision: '365eeb4', time: '2016-01-13 18:37:00'
+System info: host: 'Newt-Rnt09', ip: '192.168.1.43', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 58caf1d6-99c2-4fba-88aa-54fe5535a101 
+2016-03-28 11:11:52,745 INFO  [Log] Gmail :: App Logout () :: Logout Successfull... 
+2016-03-28 11:11:52,755 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-03-28 11:11:52,755 INFO  [Log] X 
+2016-03-28 11:11:52,755 INFO  [Log] X 
+2016-03-28 11:11:52,755 INFO  [Log] X 
+2016-03-28 11:11:52,755 INFO  [Log] X 
+2016-03-28 11:11:58,280 ERROR [Log] Sign Out Button - having xpath '//a[text()='Sign out']'  click failed  - org.openqa.selenium.ElementNotVisibleException: Element is not currently visible and so may not be interacted with
+Command duration or timeout: 10.03 seconds
+Build info: version: '2.49.0', revision: '365eeb4', time: '2016-01-13 18:37:00'
+System info: host: 'Newt-Rnt09', ip: '192.168.1.43', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 924e64d0-9eec-4b2b-9f88-5040dcb4357f 
+2016-03-28 11:11:58,281 INFO  [Log] Gmail :: App Logout () :: Logout Successfull... 
+2016-03-28 11:11:58,290 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-03-28 11:11:58,290 INFO  [Log] X 
+2016-03-28 11:11:58,290 INFO  [Log] X 
+2016-03-28 11:11:58,290 INFO  [Log] X 
+2016-03-28 11:11:58,290 INFO  [Log] X 
+2016-03-28 11:11:59,561 INFO  [Log] GMAIL_LOGIN :: afterClass() method invoked... 
+2016-03-28 11:11:59,561 INFO  [Log] Gmail :: App Logout () method invoked... 
+2016-03-28 11:12:00,127 ERROR [Log] Logout Image - having xpath '//span[@class='gb_Za gbii']'  click failed  - org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//span[@class='gb_Za gbii']"}
+Command duration or timeout: 11.98 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.49.0', revision: '365eeb4', time: '2016-01-13 18:37:00'
+System info: host: 'Newt-Rnt09', ip: '192.168.1.43', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 1d2717ad-9d6f-4b1e-b1cb-497569bd2d67
+*** Element info: {Using=xpath, value=//span[@class='gb_Za gbii']} 
+2016-03-28 11:12:05,402 INFO  [Log] GMAIL_LOGIN :: afterClass() method invoked... 
+2016-03-28 11:12:05,402 INFO  [Log] Gmail :: App Logout () method invoked... 
+2016-03-28 11:12:09,838 ERROR [Log] Logout Image - having xpath '//span[@class='gb_Za gbii']'  click failed  - org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//span[@class='gb_Za gbii']"}
+Command duration or timeout: 10.13 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.49.0', revision: '365eeb4', time: '2016-01-13 18:37:00'
+System info: host: 'Newt-Rnt09', ip: '192.168.1.43', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 5619a2aa-5990-44b7-9bf3-2cb174079711
+*** Element info: {Using=xpath, value=//span[@class='gb_Za gbii']} 
+2016-03-28 11:12:13,410 ERROR [Log] Sign Out Button - having xpath '//a[text()='Sign out']'  click failed  - org.openqa.selenium.ElementNotVisibleException: Element is not currently visible and so may not be interacted with
+Command duration or timeout: 10.09 seconds
+Build info: version: '2.49.0', revision: '365eeb4', time: '2016-01-13 18:37:00'
+System info: host: 'Newt-Rnt09', ip: '192.168.1.43', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 1d2717ad-9d6f-4b1e-b1cb-497569bd2d67 
+2016-03-28 11:12:13,411 INFO  [Log] Gmail :: App Logout () :: Logout Successfull... 
+2016-03-28 11:12:13,419 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-03-28 11:12:13,419 INFO  [Log] X 
+2016-03-28 11:12:13,419 INFO  [Log] X 
+2016-03-28 11:12:13,419 INFO  [Log] X 
+2016-03-28 11:12:13,419 INFO  [Log] X 
+2016-03-28 11:12:15,575 ERROR [Log] Logout Image - having xpath '//span[@class='gb_Za gbii']'  click failed  - org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//span[@class='gb_Za gbii']"}
+Command duration or timeout: 10.05 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.49.0', revision: '365eeb4', time: '2016-01-13 18:37:00'
+System info: host: 'Newt-Rnt09', ip: '192.168.1.43', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: a56deb5e-e481-4838-a9aa-32ff14d1c49e
+*** Element info: {Using=xpath, value=//span[@class='gb_Za gbii']} 
+2016-03-28 11:12:23,088 ERROR [Log] Sign Out Button - having xpath '//a[text()='Sign out']'  click failed  - org.openqa.selenium.ElementNotVisibleException: Element is not currently visible and so may not be interacted with
+Command duration or timeout: 10.08 seconds
+Build info: version: '2.49.0', revision: '365eeb4', time: '2016-01-13 18:37:00'
+System info: host: 'Newt-Rnt09', ip: '192.168.1.43', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 5619a2aa-5990-44b7-9bf3-2cb174079711 
+2016-03-28 11:12:23,088 INFO  [Log] Gmail :: App Logout () :: Logout Successfull... 
+2016-03-28 11:12:23,097 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-03-28 11:12:23,097 INFO  [Log] X 
+2016-03-28 11:12:23,097 INFO  [Log] X 
+2016-03-28 11:12:23,097 INFO  [Log] X 
+2016-03-28 11:12:23,097 INFO  [Log] X 
+2016-03-28 11:12:28,899 ERROR [Log] Sign Out Button - having xpath '//a[text()='Sign out']'  click failed  - org.openqa.selenium.ElementNotVisibleException: Element is not currently visible and so may not be interacted with
+Command duration or timeout: 10.11 seconds
+Build info: version: '2.49.0', revision: '365eeb4', time: '2016-01-13 18:37:00'
+System info: host: 'Newt-Rnt09', ip: '192.168.1.43', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: a56deb5e-e481-4838-a9aa-32ff14d1c49e 
+2016-03-28 11:12:28,899 INFO  [Log] Gmail :: App Logout () :: Logout Successfull... 
+2016-03-28 11:12:28,908 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-03-28 11:12:28,908 INFO  [Log] X 
+2016-03-28 11:12:28,908 INFO  [Log] X 
+2016-03-28 11:12:28,909 INFO  [Log] X 
+2016-03-28 11:12:28,909 INFO  [Log] X 
+2016-03-28 11:25:30,617 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Start Execution       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-03-28 11:25:30,618 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-03-28 11:25:30,618 INFO  [Log] GMAIL_LOGIN :: beforeClass() method invoked... 
+2016-03-28 11:25:30,617 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Start Execution       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-03-28 11:25:30,625 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-03-28 11:25:30,625 INFO  [Log] GMAIL_LOGIN :: beforeClass() method invoked... 
+2016-03-28 11:25:30,635 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Start Execution       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-03-28 11:25:30,635 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-03-28 11:25:30,635 INFO  [Log] GMAIL_LOGIN :: beforeClass() method invoked... 
+2016-03-28 11:25:30,649 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Start Execution       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-03-28 11:25:30,649 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-03-28 11:25:30,649 INFO  [Log] GMAIL_LOGIN :: beforeClass() method invoked... 
+2016-03-28 11:25:30,660 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Start Execution       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-03-28 11:25:30,660 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-03-28 11:25:30,660 INFO  [Log] GMAIL_LOGIN :: beforeClass() method invoked... 
+2016-03-28 11:25:31,336 INFO  [Log] Executing Test Case TC_03 
+2016-03-28 11:25:31,337 INFO  [Log] Launching url 
+2016-03-28 11:25:31,343 INFO  [Log] Executing Test Case TC_04 
+2016-03-28 11:25:31,343 INFO  [Log] Launching url 
+2016-03-28 11:25:31,349 INFO  [Log] Executing Test Case TC_05 
+2016-03-28 11:25:31,349 INFO  [Log] Launching url 
+2016-03-28 11:25:31,351 INFO  [Log] Executing Test Case TC_01 
+2016-03-28 11:25:31,351 INFO  [Log] Launching url 
+2016-03-28 11:25:31,353 INFO  [Log] Executing Test Case TC_02 
+2016-03-28 11:25:31,354 INFO  [Log] Launching url 
+2016-03-28 11:25:38,217 INFO  [Log] New driver instantiated 
+2016-03-28 11:25:38,327 INFO  [Log] Gmail :: URL launch successfull... 
+2016-03-28 11:25:40,149 INFO  [Log] Gmail :: App login invoked ()... 
+2016-03-28 11:25:40,876 INFO  [Log] Data  'newtdemo' entered sucessfully in the edit box 
+2016-03-28 11:25:41,012 INFO  [Log] login_next_btn - having xpath '//input[@id='next']' clicked sucessfully 
+2016-03-28 11:25:44,423 INFO  [Log] Data  'Newtglobal@123' entered sucessfully in the edit box 
+2016-03-28 11:25:44,458 INFO  [Log] New driver instantiated 
+2016-03-28 11:25:45,267 INFO  [Log] signin_btn - having xpath '//input[@id='signIn']' clicked sucessfully 
+2016-03-28 11:25:52,127 INFO  [Log] New driver instantiated 
+2016-03-28 11:25:53,136 INFO  [Log] Gmail :: URL launch successfull... 
+2016-03-28 11:25:55,386 INFO  [Log] Gmail :: App login invoked ()... 
+2016-03-28 11:25:57,214 INFO  [Log] Data  'newtdemo' entered sucessfully in the edit box 
+2016-03-28 11:25:57,357 INFO  [Log] login_next_btn - having xpath '//input[@id='next']' clicked sucessfully 
+2016-03-28 11:25:59,928 INFO  [Log] GMAIL_LOGIN :: afterClass() method invoked... 
+2016-03-28 11:25:59,928 INFO  [Log] Gmail :: App Logout () method invoked... 
+2016-03-28 11:26:00,508 INFO  [Log] New driver instantiated 
+2016-03-28 11:26:01,158 INFO  [Log] Data  'Newtglobal@123' entered sucessfully in the edit box 
+2016-03-28 11:26:01,385 INFO  [Log] Gmail :: URL launch successfull... 
+2016-03-28 11:26:01,869 INFO  [Log] signin_btn - having xpath '//input[@id='signIn']' clicked sucessfully 
+2016-03-28 11:26:04,696 INFO  [Log] Gmail :: App login invoked ()... 
+2016-03-28 11:26:06,244 INFO  [Log] Data  'newtdemo' entered sucessfully in the edit box 
+2016-03-28 11:26:06,511 INFO  [Log] login_next_btn - having xpath '//input[@id='next']' clicked sucessfully 
+2016-03-28 11:26:07,240 INFO  [Log] New driver instantiated 
+2016-03-28 11:26:09,807 INFO  [Log] Data  'Newtglobal@123' entered sucessfully in the edit box 
+2016-03-28 11:26:10,342 ERROR [Log] Logout Image - having xpath '//span[@class='gb_Za gbii']'  click failed  - org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//span[@class='gb_Za gbii']"}
+Command duration or timeout: 10.15 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.49.0', revision: '365eeb4', time: '2016-01-13 18:37:00'
+System info: host: 'Newt-Rnt09', ip: '192.168.1.43', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 0c163a2e-e35a-4cfa-b1ef-4b265da58634
+*** Element info: {Using=xpath, value=//span[@class='gb_Za gbii']} 
+2016-03-28 11:26:10,721 INFO  [Log] signin_btn - having xpath '//input[@id='signIn']' clicked sucessfully 
+2016-03-28 11:26:15,102 ERROR [Log] Gmail :: Url launch failed () :: Exception:org.openqa.selenium.WebDriverException: f.QueryInterface is not a function
+Command duration or timeout: 30.12 seconds
+Build info: version: '2.49.0', revision: '365eeb4', time: '2016-01-13 18:37:00'
+System info: host: 'Newt-Rnt09', ip: '192.168.1.43', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: c8031cd0-b6a1-4cf7-8b84-7a7b5c26997b 
+2016-03-28 11:26:16,259 INFO  [Log] GMAIL_LOGIN :: afterClass() method invoked... 
+2016-03-28 11:26:16,260 INFO  [Log] Gmail :: App Logout () method invoked... 
+2016-03-28 11:26:18,259 INFO  [Log] GMAIL_LOGIN :: afterClass() method invoked... 
+2016-03-28 11:26:18,259 INFO  [Log] Gmail :: App Logout () method invoked... 
+2016-03-28 11:26:23,603 ERROR [Log] Sign Out Button - having xpath '//a[text()='Sign out']'  click failed  - org.openqa.selenium.ElementNotVisibleException: Element is not currently visible and so may not be interacted with
+Command duration or timeout: 10.03 seconds
+Build info: version: '2.49.0', revision: '365eeb4', time: '2016-01-13 18:37:00'
+System info: host: 'Newt-Rnt09', ip: '192.168.1.43', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 0c163a2e-e35a-4cfa-b1ef-4b265da58634 
+2016-03-28 11:26:23,604 INFO  [Log] Gmail :: App Logout () :: Logout Successfull... 
+2016-03-28 11:26:23,615 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-03-28 11:26:23,615 INFO  [Log] X 
+2016-03-28 11:26:23,615 INFO  [Log] X 
+2016-03-28 11:26:23,615 INFO  [Log] X 
+2016-03-28 11:26:23,615 INFO  [Log] X 
+2016-03-28 11:26:25,390 INFO  [Log] GMAIL_LOGIN :: afterClass() method invoked... 
+2016-03-28 11:26:25,391 INFO  [Log] Gmail :: App Logout () method invoked... 
+2016-03-28 11:26:28,513 ERROR [Log] Logout Image - having xpath '//span[@class='gb_Za gbii']'  click failed  - org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//span[@class='gb_Za gbii']"}
+Command duration or timeout: 10.09 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.49.0', revision: '365eeb4', time: '2016-01-13 18:37:00'
+System info: host: 'Newt-Rnt09', ip: '192.168.1.43', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: cb4513aa-1611-41c6-a2ca-9b3590be9fed
+*** Element info: {Using=xpath, value=//span[@class='gb_Za gbii']} 
+2016-03-28 11:26:35,592 ERROR [Log] Logout Image - having xpath '//span[@class='gb_Za gbii']'  click failed  - org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//span[@class='gb_Za gbii']"}
+Command duration or timeout: 10.07 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.49.0', revision: '365eeb4', time: '2016-01-13 18:37:00'
+System info: host: 'Newt-Rnt09', ip: '192.168.1.43', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 404c4188-651d-4321-8573-c601f36eb409
+*** Element info: {Using=xpath, value=//span[@class='gb_Za gbii']} 
+2016-03-28 11:26:41,754 ERROR [Log] Sign Out Button - having xpath '//a[text()='Sign out']'  click failed  - org.openqa.selenium.ElementNotVisibleException: Element is not currently visible and so may not be interacted with
+Command duration or timeout: 10.04 seconds
+Build info: version: '2.49.0', revision: '365eeb4', time: '2016-01-13 18:37:00'
+System info: host: 'Newt-Rnt09', ip: '192.168.1.43', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: cb4513aa-1611-41c6-a2ca-9b3590be9fed 
+2016-03-28 11:26:41,755 INFO  [Log] Gmail :: App Logout () :: Logout Successfull... 
+2016-03-28 11:26:41,764 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-03-28 11:26:41,764 INFO  [Log] X 
+2016-03-28 11:26:41,764 INFO  [Log] X 
+2016-03-28 11:26:41,764 INFO  [Log] X 
+2016-03-28 11:26:41,764 INFO  [Log] X 
+2016-03-28 11:26:47,054 ERROR [Log] Logout Image - having xpath '//span[@class='gb_Za gbii']'  click failed  - org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//span[@class='gb_Za gbii']"}
+Command duration or timeout: 30.11 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.49.0', revision: '365eeb4', time: '2016-01-13 18:37:00'
+System info: host: 'Newt-Rnt09', ip: '192.168.1.43', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: c8031cd0-b6a1-4cf7-8b84-7a7b5c26997b
+*** Element info: {Using=xpath, value=//span[@class='gb_Za gbii']} 
+2016-03-28 11:26:48,886 ERROR [Log] Sign Out Button - having xpath '//a[text()='Sign out']'  click failed  - org.openqa.selenium.ElementNotVisibleException: Element is not currently visible and so may not be interacted with
+Command duration or timeout: 10.04 seconds
+Build info: version: '2.49.0', revision: '365eeb4', time: '2016-01-13 18:37:00'
+System info: host: 'Newt-Rnt09', ip: '192.168.1.43', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 404c4188-651d-4321-8573-c601f36eb409 
+2016-03-28 11:26:48,886 INFO  [Log] Gmail :: App Logout () :: Logout Successfull... 
+2016-03-28 11:26:48,895 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-03-28 11:26:48,896 INFO  [Log] X 
+2016-03-28 11:26:48,896 INFO  [Log] X 
+2016-03-28 11:26:48,896 INFO  [Log] X 
+2016-03-28 11:26:48,896 INFO  [Log] X 
+2016-03-28 11:26:52,878 INFO  [Log] Gmail :: URL launch successfull... 
+2016-03-28 11:26:53,053 INFO  [Log] Gmail :: App login invoked ()... 
+2016-03-28 11:27:03,115 ERROR [Log] Error occured while setting data  newtdemo  - org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//input[@id='Email']"}
+Command duration or timeout: 10.06 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.49.0', revision: '365eeb4', time: '2016-01-13 18:37:00'
+System info: host: 'Newt-Rnt09', ip: '192.168.1.43', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: c712ad83-15ac-460b-9821-f1cef68e81c5
+*** Element info: {Using=xpath, value=//input[@id='Email']} 
+2016-03-28 11:27:13,469 ERROR [Log] login_next_btn - having xpath '//input[@id='next']'  click failed  - org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//input[@id='next']"}
+Command duration or timeout: 10.13 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.49.0', revision: '365eeb4', time: '2016-01-13 18:37:00'
+System info: host: 'Newt-Rnt09', ip: '192.168.1.43', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: c712ad83-15ac-460b-9821-f1cef68e81c5
+*** Element info: {Using=xpath, value=//input[@id='next']} 
+2016-03-28 11:27:20,759 ERROR [Log] Sign Out Button - having xpath '//a[text()='Sign out']'  click failed  - org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//a[text()='Sign out']"}
+Command duration or timeout: 30.05 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.49.0', revision: '365eeb4', time: '2016-01-13 18:37:00'
+System info: host: 'Newt-Rnt09', ip: '192.168.1.43', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: c8031cd0-b6a1-4cf7-8b84-7a7b5c26997b
+*** Element info: {Using=xpath, value=//a[text()='Sign out']} 
+2016-03-28 11:27:20,759 INFO  [Log] Gmail :: App Logout () :: Logout Successfull... 
+2016-03-28 11:27:20,766 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-03-28 11:27:20,766 INFO  [Log] X 
+2016-03-28 11:27:20,766 INFO  [Log] X 
+2016-03-28 11:27:20,766 INFO  [Log] X 
+2016-03-28 11:27:20,766 INFO  [Log] X 
+2016-03-28 11:27:26,568 ERROR [Log] Error occured while setting data  Newtglobal@123  - org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"id","selector":"Passwd"}
+Command duration or timeout: 10.10 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.49.0', revision: '365eeb4', time: '2016-01-13 18:37:00'
+System info: host: 'Newt-Rnt09', ip: '192.168.1.43', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: c712ad83-15ac-460b-9821-f1cef68e81c5
+*** Element info: {Using=id, value=Passwd} 
+2016-03-28 11:27:36,783 ERROR [Log] signin_btn - having xpath '//input[@id='signIn']'  click failed  - org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//input[@id='signIn']"}
+Command duration or timeout: 10.03 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.49.0', revision: '365eeb4', time: '2016-01-13 18:37:00'
+System info: host: 'Newt-Rnt09', ip: '192.168.1.43', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: c712ad83-15ac-460b-9821-f1cef68e81c5
+*** Element info: {Using=xpath, value=//input[@id='signIn']} 
+2016-03-28 11:27:50,031 INFO  [Log] GMAIL_LOGIN :: afterClass() method invoked... 
+2016-03-28 11:27:50,031 INFO  [Log] Gmail :: App Logout () method invoked... 
+2016-03-28 11:28:00,259 ERROR [Log] Logout Image - having xpath '//span[@class='gb_Za gbii']'  click failed  - org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//span[@class='gb_Za gbii']"}
+Command duration or timeout: 10.05 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.49.0', revision: '365eeb4', time: '2016-01-13 18:37:00'
+System info: host: 'Newt-Rnt09', ip: '192.168.1.43', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: c712ad83-15ac-460b-9821-f1cef68e81c5
+*** Element info: {Using=xpath, value=//span[@class='gb_Za gbii']} 
+2016-03-28 11:28:13,521 ERROR [Log] Sign Out Button - having xpath '//a[text()='Sign out']'  click failed  - org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//a[text()='Sign out']"}
+Command duration or timeout: 10.10 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.49.0', revision: '365eeb4', time: '2016-01-13 18:37:00'
+System info: host: 'Newt-Rnt09', ip: '192.168.1.43', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: c712ad83-15ac-460b-9821-f1cef68e81c5
+*** Element info: {Using=xpath, value=//a[text()='Sign out']} 
+2016-03-28 11:28:13,521 INFO  [Log] Gmail :: App Logout () :: Logout Successfull... 
+2016-03-28 11:28:13,529 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-03-28 11:28:13,529 INFO  [Log] X 
+2016-03-28 11:28:13,529 INFO  [Log] X 
+2016-03-28 11:28:13,529 INFO  [Log] X 
+2016-03-28 11:28:13,529 INFO  [Log] X 
+2016-03-28 11:34:44,457 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Start Execution       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-03-28 11:34:44,457 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-03-28 11:34:44,457 INFO  [Log] GMAIL_LOGIN :: beforeClass() method invoked... 
+2016-03-28 11:34:44,459 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Start Execution       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-03-28 11:34:44,459 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-03-28 11:34:44,459 INFO  [Log] GMAIL_LOGIN :: beforeClass() method invoked... 
+2016-03-28 11:34:44,468 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Start Execution       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-03-28 11:34:44,468 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-03-28 11:34:44,468 INFO  [Log] GMAIL_LOGIN :: beforeClass() method invoked... 
+2016-03-28 11:34:44,480 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Start Execution       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-03-28 11:34:44,480 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-03-28 11:34:44,480 INFO  [Log] GMAIL_LOGIN :: beforeClass() method invoked... 
+2016-03-28 11:34:44,485 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Start Execution       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-03-28 11:34:44,485 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-03-28 11:34:44,485 INFO  [Log] GMAIL_LOGIN :: beforeClass() method invoked... 
+2016-03-28 11:34:45,096 INFO  [Log] Executing Test Case TC_04 
+2016-03-28 11:34:45,096 INFO  [Log] Launching url 
+2016-03-28 11:34:45,099 INFO  [Log] Executing Test Case TC_03 
+2016-03-28 11:34:45,099 INFO  [Log] Launching url 
+2016-03-28 11:34:45,101 INFO  [Log] Executing Test Case TC_01 
+2016-03-28 11:34:45,101 INFO  [Log] Launching url 
+2016-03-28 11:34:45,104 INFO  [Log] Executing Test Case TC_05 
+2016-03-28 11:34:45,104 INFO  [Log] Launching url 
+2016-03-28 11:34:45,109 INFO  [Log] Executing Test Case TC_02 
+2016-03-28 11:34:45,109 INFO  [Log] Launching url 
+2016-03-28 11:34:51,410 INFO  [Log] New driver instantiated 
+2016-03-28 11:34:57,095 INFO  [Log] New driver instantiated 
+2016-03-28 11:34:57,510 INFO  [Log] Gmail :: URL launch successfull... 
+2016-03-28 11:35:00,078 INFO  [Log] Gmail :: App login invoked ()... 
+2016-03-28 11:35:01,020 INFO  [Log] Data  'TC_03' entered sucessfully in the edit box 
+2016-03-28 11:35:01,131 INFO  [Log] login_next_btn - having xpath '//input[@id='next']' clicked sucessfully 
+2016-03-28 11:35:02,920 INFO  [Log] New driver instantiated 
+2016-03-28 11:35:03,048 INFO  [Log] Gmail :: URL launch successfull... 
+2016-03-28 11:35:05,390 INFO  [Log] Gmail :: App login invoked ()... 
+2016-03-28 11:35:05,628 INFO  [Log] Data  'newtdemo' entered sucessfully in the edit box 
+2016-03-28 11:35:05,758 INFO  [Log] login_next_btn - having xpath '//input[@id='next']' clicked sucessfully 
+2016-03-28 11:35:09,065 INFO  [Log] Data  'Newtglobal@123' entered sucessfully in the edit box 
+2016-03-28 11:35:09,575 INFO  [Log] New driver instantiated 
+2016-03-28 11:35:09,929 INFO  [Log] signin_btn - having xpath '//input[@id='signIn']' clicked sucessfully 
+2016-03-28 11:35:11,362 INFO  [Log] Gmail :: URL launch successfull... 
+2016-03-28 11:35:14,204 ERROR [Log] Error occured while setting data  Newtglobal@123  - org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"id","selector":"Passwd"}
+Command duration or timeout: 10.06 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.49.0', revision: '365eeb4', time: '2016-01-13 18:37:00'
+System info: host: 'Newt-Rnt09', ip: '192.168.1.43', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: c0232c90-e7fa-4080-82e4-6d416f81a4b4
+*** Element info: {Using=id, value=Passwd} 
+2016-03-28 11:35:15,352 INFO  [Log] Gmail :: App login invoked ()... 
+2016-03-28 11:35:17,353 INFO  [Log] Data  'newtdemo' entered sucessfully in the edit box 
+2016-03-28 11:35:17,654 INFO  [Log] login_next_btn - having xpath '//input[@id='next']' clicked sucessfully 
+2016-03-28 11:35:19,589 INFO  [Log] New driver instantiated 
+2016-03-28 11:35:20,903 INFO  [Log] Gmail :: URL launch successfull... 
+2016-03-28 11:35:20,925 INFO  [Log] Data  'Newtglobal@123' entered sucessfully in the edit box 
+2016-03-28 11:35:21,779 INFO  [Log] signin_btn - having xpath '//input[@id='signIn']' clicked sucessfully 
+2016-03-28 11:35:21,954 ERROR [Log] Gmail :: Url launch failed () :: Exception:org.openqa.selenium.WebDriverException: f.QueryInterface is not a function
+Command duration or timeout: 30.08 seconds
+Build info: version: '2.49.0', revision: '365eeb4', time: '2016-01-13 18:37:00'
+System info: host: 'Newt-Rnt09', ip: '192.168.1.43', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 122d6dcb-4cbc-4923-b5f3-27bf3355bbf2 
+2016-03-28 11:35:23,031 INFO  [Log] Gmail :: App login invoked ()... 
+2016-03-28 11:35:23,672 INFO  [Log] GMAIL_LOGIN :: afterClass() method invoked... 
+2016-03-28 11:35:23,673 INFO  [Log] Gmail :: App Logout () method invoked... 
+2016-03-28 11:35:24,220 INFO  [Log] Data  'newtdemo' entered sucessfully in the edit box 
+2016-03-28 11:35:24,425 ERROR [Log] signin_btn - having xpath '//input[@id='signIn']'  click failed  - org.openqa.selenium.ElementNotVisibleException: Element is not currently visible and so may not be interacted with
+Command duration or timeout: 10.06 seconds
+Build info: version: '2.49.0', revision: '365eeb4', time: '2016-01-13 18:37:00'
+System info: host: 'Newt-Rnt09', ip: '192.168.1.43', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: c0232c90-e7fa-4080-82e4-6d416f81a4b4 
+2016-03-28 11:35:24,454 INFO  [Log] login_next_btn - having xpath '//input[@id='next']' clicked sucessfully 
+2016-03-28 11:35:27,714 INFO  [Log] Data  'Newtglobal@123' entered sucessfully in the edit box 
+2016-03-28 11:35:28,460 INFO  [Log] signin_btn - having xpath '//input[@id='signIn']' clicked sucessfully 
+2016-03-28 11:35:29,656 INFO  [Log] GMAIL_LOGIN :: afterClass() method invoked... 
+2016-03-28 11:35:29,678 INFO  [Log] Gmail :: App Logout () method invoked... 
+2016-03-28 11:35:33,887 ERROR [Log] Logout Image - having xpath '//span[@class='gb_Za gbii']'  click failed  - org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//span[@class='gb_Za gbii']"}
+Command duration or timeout: 10.06 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.49.0', revision: '365eeb4', time: '2016-01-13 18:37:00'
+System info: host: 'Newt-Rnt09', ip: '192.168.1.43', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 26b1f4a6-7a6b-4dc6-820e-2455d225b32e
+*** Element info: {Using=xpath, value=//span[@class='gb_Za gbii']} 
+2016-03-28 11:35:37,528 INFO  [Log] GMAIL_LOGIN :: afterClass() method invoked... 
+2016-03-28 11:35:37,528 INFO  [Log] Gmail :: App Logout () method invoked... 
+2016-03-28 11:35:37,776 INFO  [Log] GMAIL_LOGIN :: afterClass() method invoked... 
+2016-03-28 11:35:37,776 INFO  [Log] Gmail :: App Logout () method invoked... 
+2016-03-28 11:35:41,802 INFO  [Log] GMAIL_LOGIN :: afterClass() method invoked... 
+2016-03-28 11:35:41,802 INFO  [Log] Gmail :: App Logout () method invoked... 
+2016-03-28 11:35:47,451 ERROR [Log] Sign Out Button - having xpath '//a[text()='Sign out']'  click failed  - org.openqa.selenium.ElementNotVisibleException: Element is not currently visible and so may not be interacted with
+Command duration or timeout: 10.06 seconds
+Build info: version: '2.49.0', revision: '365eeb4', time: '2016-01-13 18:37:00'
+System info: host: 'Newt-Rnt09', ip: '192.168.1.43', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 26b1f4a6-7a6b-4dc6-820e-2455d225b32e 
+2016-03-28 11:35:47,451 INFO  [Log] Gmail :: App Logout () :: Logout Successfull... 
+2016-03-28 11:35:47,462 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-03-28 11:35:47,462 INFO  [Log] X 
+2016-03-28 11:35:47,462 INFO  [Log] X 
+2016-03-28 11:35:47,462 INFO  [Log] X 
+2016-03-28 11:35:47,462 INFO  [Log] X 
+2016-03-28 11:35:47,901 ERROR [Log] Logout Image - having xpath '//span[@class='gb_Za gbii']'  click failed  - org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//span[@class='gb_Za gbii']"}
+Command duration or timeout: 10.11 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.49.0', revision: '365eeb4', time: '2016-01-13 18:37:00'
+System info: host: 'Newt-Rnt09', ip: '192.168.1.43', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 5af9dd55-ec8a-439f-8d81-d643549c12ad
+*** Element info: {Using=xpath, value=//span[@class='gb_Za gbii']} 
+2016-03-28 11:35:47,972 ERROR [Log] Logout Image - having xpath '//span[@class='gb_Za gbii']'  click failed  - org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//span[@class='gb_Za gbii']"}
+Command duration or timeout: 10.02 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.49.0', revision: '365eeb4', time: '2016-01-13 18:37:00'
+System info: host: 'Newt-Rnt09', ip: '192.168.1.43', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: c0232c90-e7fa-4080-82e4-6d416f81a4b4
+*** Element info: {Using=xpath, value=//span[@class='gb_Za gbii']} 
+2016-03-28 11:35:52,007 ERROR [Log] Logout Image - having xpath '//span[@class='gb_Za gbii']'  click failed  - org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//span[@class='gb_Za gbii']"}
+Command duration or timeout: 10.08 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.49.0', revision: '365eeb4', time: '2016-01-13 18:37:00'
+System info: host: 'Newt-Rnt09', ip: '192.168.1.43', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 4f255342-f602-4e36-aae9-8a9b95db643f
+*** Element info: {Using=xpath, value=//span[@class='gb_Za gbii']} 
+2016-03-28 11:36:00,488 ERROR [Log] Logout Image - having xpath '//span[@class='gb_Za gbii']'  click failed  - org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//span[@class='gb_Za gbii']"}
+Command duration or timeout: 30.08 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.49.0', revision: '365eeb4', time: '2016-01-13 18:37:00'
+System info: host: 'Newt-Rnt09', ip: '192.168.1.43', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 122d6dcb-4cbc-4923-b5f3-27bf3355bbf2
+*** Element info: {Using=xpath, value=//span[@class='gb_Za gbii']} 
+2016-03-28 11:36:01,177 ERROR [Log] Sign Out Button - having xpath '//a[text()='Sign out']'  click failed  - org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//a[text()='Sign out']"}
+Command duration or timeout: 10.07 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.49.0', revision: '365eeb4', time: '2016-01-13 18:37:00'
+System info: host: 'Newt-Rnt09', ip: '192.168.1.43', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: c0232c90-e7fa-4080-82e4-6d416f81a4b4
+*** Element info: {Using=xpath, value=//a[text()='Sign out']} 
+2016-03-28 11:36:01,177 ERROR [Log] Sign Out Button - having xpath '//a[text()='Sign out']'  click failed  - org.openqa.selenium.ElementNotVisibleException: Element is not currently visible and so may not be interacted with
+Command duration or timeout: 10.03 seconds
+Build info: version: '2.49.0', revision: '365eeb4', time: '2016-01-13 18:37:00'
+System info: host: 'Newt-Rnt09', ip: '192.168.1.43', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 5af9dd55-ec8a-439f-8d81-d643549c12ad 
+2016-03-28 11:36:01,178 INFO  [Log] Gmail :: App Logout () :: Logout Successfull... 
+2016-03-28 11:36:01,179 INFO  [Log] Gmail :: App Logout () :: Logout Successfull... 
+2016-03-28 11:36:01,192 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-03-28 11:36:01,192 INFO  [Log] X 
+2016-03-28 11:36:01,192 INFO  [Log] X 
+2016-03-28 11:36:01,192 INFO  [Log] X 
+2016-03-28 11:36:01,192 INFO  [Log] X 
+2016-03-28 11:36:01,193 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-03-28 11:36:01,193 INFO  [Log] X 
+2016-03-28 11:36:01,193 INFO  [Log] X 
+2016-03-28 11:36:01,193 INFO  [Log] X 
+2016-03-28 11:36:01,193 INFO  [Log] X 
+2016-03-28 11:36:05,386 ERROR [Log] Sign Out Button - having xpath '//a[text()='Sign out']'  click failed  - org.openqa.selenium.ElementNotVisibleException: Element is not currently visible and so may not be interacted with
+Command duration or timeout: 10.09 seconds
+Build info: version: '2.49.0', revision: '365eeb4', time: '2016-01-13 18:37:00'
+System info: host: 'Newt-Rnt09', ip: '192.168.1.43', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 4f255342-f602-4e36-aae9-8a9b95db643f 
+2016-03-28 11:36:05,387 INFO  [Log] Gmail :: App Logout () :: Logout Successfull... 
+2016-03-28 11:36:05,403 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-03-28 11:36:05,403 INFO  [Log] X 
+2016-03-28 11:36:05,403 INFO  [Log] X 
+2016-03-28 11:36:05,403 INFO  [Log] X 
+2016-03-28 11:36:05,403 INFO  [Log] X 
+2016-03-28 11:36:34,198 ERROR [Log] Sign Out Button - having xpath '//a[text()='Sign out']'  click failed  - org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//a[text()='Sign out']"}
+Command duration or timeout: 30.05 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.49.0', revision: '365eeb4', time: '2016-01-13 18:37:00'
+System info: host: 'Newt-Rnt09', ip: '192.168.1.43', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 122d6dcb-4cbc-4923-b5f3-27bf3355bbf2
+*** Element info: {Using=xpath, value=//a[text()='Sign out']} 
+2016-03-28 11:36:34,199 INFO  [Log] Gmail :: App Logout () :: Logout Successfull... 
+2016-03-28 11:36:34,206 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-03-28 11:36:34,206 INFO  [Log] X 
+2016-03-28 11:36:34,206 INFO  [Log] X 
+2016-03-28 11:36:34,206 INFO  [Log] X 
+2016-03-28 11:36:34,206 INFO  [Log] X 
+2016-03-28 15:43:23,093 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Start Execution       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-03-28 15:43:23,093 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-03-28 15:43:23,093 INFO  [Log] GMAIL_LOGIN :: beforeClass() method invoked... 
+2016-03-28 15:43:23,092 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Start Execution       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-03-28 15:43:23,099 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-03-28 15:43:23,099 INFO  [Log] GMAIL_LOGIN :: beforeClass() method invoked... 
+2016-03-28 15:43:23,091 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Start Execution       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-03-28 15:43:23,100 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-03-28 15:43:23,100 INFO  [Log] GMAIL_LOGIN :: beforeClass() method invoked... 
+2016-03-28 15:43:23,102 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Start Execution       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-03-28 15:43:23,103 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-03-28 15:43:23,103 INFO  [Log] GMAIL_LOGIN :: beforeClass() method invoked... 
+2016-03-28 15:43:23,105 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Start Execution       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-03-28 15:43:23,105 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-03-28 15:43:23,105 INFO  [Log] GMAIL_LOGIN :: beforeClass() method invoked... 
+2016-03-28 15:43:23,747 INFO  [Log] Executing Test Case TC_03 
+2016-03-28 15:43:23,747 INFO  [Log] Launching url 
+2016-03-28 15:43:23,759 INFO  [Log] Executing Test Case TC_02 
+2016-03-28 15:43:23,759 INFO  [Log] Launching url 
+2016-03-28 15:43:23,762 INFO  [Log] Executing Test Case TC_05 
+2016-03-28 15:43:23,762 INFO  [Log] Launching url 
+2016-03-28 15:43:23,763 INFO  [Log] Executing Test Case TC_01 
+2016-03-28 15:43:23,763 INFO  [Log] Launching url 
+2016-03-28 15:43:23,773 INFO  [Log] Executing Test Case TC_04 
+2016-03-28 15:43:23,774 INFO  [Log] Launching url 
+2016-03-28 15:43:31,303 INFO  [Log] New driver instantiated 
+2016-03-28 15:43:36,815 INFO  [Log] Gmail :: URL launch successfull... 
+2016-03-28 15:43:37,831 INFO  [Log] New driver instantiated 
+2016-03-28 15:43:40,102 INFO  [Log] Gmail :: App login invoked ()... 
+2016-03-28 15:43:42,991 INFO  [Log] Data  'newtdemo' entered sucessfully in the edit box 
+2016-03-28 15:43:43,095 INFO  [Log] login_next_btn - having xpath '//input[@id='next']' clicked sucessfully 
+2016-03-28 15:43:46,564 INFO  [Log] Data  'Newtglobal@123' entered sucessfully in the edit box 
+2016-03-28 15:43:46,791 INFO  [Log] New driver instantiated 
+2016-03-28 15:43:47,629 INFO  [Log] signin_btn - having xpath '//input[@id='signIn']' clicked sucessfully 
+2016-03-28 15:43:53,201 INFO  [Log] Gmail :: URL launch successfull... 
+2016-03-28 15:43:58,368 INFO  [Log] New driver instantiated 
+2016-03-28 15:44:02,199 INFO  [Log] Gmail :: App login invoked ()... 
+2016-03-28 15:44:05,695 INFO  [Log] GMAIL_LOGIN :: afterClass() method invoked... 
+2016-03-28 15:44:05,696 INFO  [Log] Gmail :: App Logout () method invoked... 
+2016-03-28 15:44:07,103 INFO  [Log] New driver instantiated 
+2016-03-28 15:44:08,078 INFO  [Log] Gmail :: URL launch successfull... 
+2016-03-28 15:44:08,422 INFO  [Log] Gmail :: App login invoked ()... 
+2016-03-28 15:44:10,660 INFO  [Log] Data  'newtdemo' entered sucessfully in the edit box 
+2016-03-28 15:44:10,769 INFO  [Log] login_next_btn - having xpath '//input[@id='next']' clicked sucessfully 
+2016-03-28 15:44:12,525 ERROR [Log] Error occured while setting data  newtdemo  - org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//input[@id='Email']"}
+Command duration or timeout: 10.32 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.0', revision: 'b7b081a4f1289f17e8ecd38bc67e137c2a12e34a', time: '2015-10-07 09:50:14'
+System info: host: 'Newt-Rnt09', ip: '192.168.1.43', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: ff36b474-d111-48f5-b245-4f17f5fb3757
+*** Element info: {Using=xpath, value=//input[@id='Email']} 
+2016-03-28 15:44:13,966 INFO  [Log] Data  'Newtglobal@123' entered sucessfully in the edit box 
+2016-03-28 15:44:14,630 INFO  [Log] signin_btn - having xpath '//input[@id='signIn']' clicked sucessfully 
+2016-03-28 15:44:16,016 INFO  [Log] Gmail :: URL launch successfull... 
+2016-03-28 15:44:16,094 ERROR [Log] Logout Image - having xpath '//span[@class='gb_Za gbii']'  click failed  - org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//span[@class='gb_Za gbii']"}
+Command duration or timeout: 10.14 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.0', revision: 'b7b081a4f1289f17e8ecd38bc67e137c2a12e34a', time: '2015-10-07 09:50:14'
+System info: host: 'Newt-Rnt09', ip: '192.168.1.43', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 381a6aa0-6eb1-4284-84c8-7c13b9483512
+*** Element info: {Using=xpath, value=//span[@class='gb_Za gbii']} 
+2016-03-28 15:44:16,361 INFO  [Log] Gmail :: App login invoked ()... 
+2016-03-28 15:44:17,388 INFO  [Log] Data  'newtdemo' entered sucessfully in the edit box 
+2016-03-28 15:44:17,519 INFO  [Log] login_next_btn - having xpath '//input[@id='next']' clicked sucessfully 
+2016-03-28 15:44:19,173 INFO  [Log] Gmail :: URL launch successfull... 
+2016-03-28 15:44:20,847 INFO  [Log] Data  'Newtglobal@123' entered sucessfully in the edit box 
+2016-03-28 15:44:20,884 INFO  [Log] Gmail :: App login invoked ()... 
+2016-03-28 15:44:21,674 INFO  [Log] signin_btn - having xpath '//input[@id='signIn']' clicked sucessfully 
+2016-03-28 15:44:22,717 ERROR [Log] login_next_btn - having xpath '//input[@id='next']'  click failed  - org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//input[@id='next']"}
+Command duration or timeout: 10.07 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.0', revision: 'b7b081a4f1289f17e8ecd38bc67e137c2a12e34a', time: '2015-10-07 09:50:14'
+System info: host: 'Newt-Rnt09', ip: '192.168.1.43', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: ff36b474-d111-48f5-b245-4f17f5fb3757
+*** Element info: {Using=xpath, value=//input[@id='next']} 
+2016-03-28 15:44:25,212 INFO  [Log] Data  'newtdemo' entered sucessfully in the edit box 
+2016-03-28 15:44:25,470 INFO  [Log] login_next_btn - having xpath '//input[@id='next']' clicked sucessfully 
+2016-03-28 15:44:28,852 INFO  [Log] Data  'Newtglobal@123' entered sucessfully in the edit box 
+2016-03-28 15:44:29,525 ERROR [Log] Sign Out Button - having xpath '//a[text()='Sign out']'  click failed  - org.openqa.selenium.ElementNotVisibleException: Element is not currently visible and so may not be interacted with
+Command duration or timeout: 10.12 seconds
+Build info: version: '2.48.0', revision: 'b7b081a4f1289f17e8ecd38bc67e137c2a12e34a', time: '2015-10-07 09:50:14'
+System info: host: 'Newt-Rnt09', ip: '192.168.1.43', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 381a6aa0-6eb1-4284-84c8-7c13b9483512 
+2016-03-28 15:44:29,525 INFO  [Log] Gmail :: App Logout () :: Logout Successfull... 
+2016-03-28 15:44:29,656 INFO  [Log] GMAIL_LOGIN :: afterClass() method invoked... 
+2016-03-28 15:44:29,656 INFO  [Log] Gmail :: App Logout () method invoked... 
+2016-03-28 15:44:29,704 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-03-28 15:44:29,704 INFO  [Log] X 
+2016-03-28 15:44:29,704 INFO  [Log] X 
+2016-03-28 15:44:29,704 INFO  [Log] X 
+2016-03-28 15:44:29,704 INFO  [Log] X 
+2016-03-28 15:44:29,918 INFO  [Log] signin_btn - having xpath '//input[@id='signIn']' clicked sucessfully 
+2016-03-28 15:44:35,755 ERROR [Log] Error occured while setting data  Newtglobal@123  - org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"id","selector":"Passwd"}
+Command duration or timeout: 10.04 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.0', revision: 'b7b081a4f1289f17e8ecd38bc67e137c2a12e34a', time: '2015-10-07 09:50:14'
+System info: host: 'Newt-Rnt09', ip: '192.168.1.43', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: ff36b474-d111-48f5-b245-4f17f5fb3757
+*** Element info: {Using=id, value=Passwd} 
+2016-03-28 15:44:35,917 INFO  [Log] GMAIL_LOGIN :: afterClass() method invoked... 
+2016-03-28 15:44:35,917 INFO  [Log] Gmail :: App Logout () method invoked... 
+2016-03-28 15:44:39,900 ERROR [Log] Logout Image - having xpath '//span[@class='gb_Za gbii']'  click failed  - org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//span[@class='gb_Za gbii']"}
+Command duration or timeout: 10.06 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.0', revision: 'b7b081a4f1289f17e8ecd38bc67e137c2a12e34a', time: '2015-10-07 09:50:14'
+System info: host: 'Newt-Rnt09', ip: '192.168.1.43', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 8af94cab-d5c9-42fe-88b3-00fe9f130c4b
+*** Element info: {Using=xpath, value=//span[@class='gb_Za gbii']} 
+2016-03-28 15:44:45,271 INFO  [Log] GMAIL_LOGIN :: afterClass() method invoked... 
+2016-03-28 15:44:45,271 INFO  [Log] Gmail :: App Logout () method invoked... 
+2016-03-28 15:44:45,959 ERROR [Log] signin_btn - having xpath '//input[@id='signIn']'  click failed  - org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//input[@id='signIn']"}
+Command duration or timeout: 10.10 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.0', revision: 'b7b081a4f1289f17e8ecd38bc67e137c2a12e34a', time: '2015-10-07 09:50:14'
+System info: host: 'Newt-Rnt09', ip: '192.168.1.43', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: ff36b474-d111-48f5-b245-4f17f5fb3757
+*** Element info: {Using=xpath, value=//input[@id='signIn']} 
+2016-03-28 15:44:46,091 ERROR [Log] Logout Image - having xpath '//span[@class='gb_Za gbii']'  click failed  - org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//span[@class='gb_Za gbii']"}
+Command duration or timeout: 10.04 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.0', revision: 'b7b081a4f1289f17e8ecd38bc67e137c2a12e34a', time: '2015-10-07 09:50:14'
+System info: host: 'Newt-Rnt09', ip: '192.168.1.43', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 8cce1474-f5bd-4d62-864b-5351bf1ef41a
+*** Element info: {Using=xpath, value=//span[@class='gb_Za gbii']} 
+2016-03-28 15:44:53,105 ERROR [Log] Sign Out Button - having xpath '//a[text()='Sign out']'  click failed  - org.openqa.selenium.ElementNotVisibleException: Element is not currently visible and so may not be interacted with
+Command duration or timeout: 10.05 seconds
+Build info: version: '2.48.0', revision: 'b7b081a4f1289f17e8ecd38bc67e137c2a12e34a', time: '2015-10-07 09:50:14'
+System info: host: 'Newt-Rnt09', ip: '192.168.1.43', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 8af94cab-d5c9-42fe-88b3-00fe9f130c4b 
+2016-03-28 15:44:53,106 INFO  [Log] Gmail :: App Logout () :: Logout Successfull... 
+2016-03-28 15:44:53,115 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-03-28 15:44:53,115 INFO  [Log] X 
+2016-03-28 15:44:53,115 INFO  [Log] X 
+2016-03-28 15:44:53,115 INFO  [Log] X 
+2016-03-28 15:44:53,115 INFO  [Log] X 
+2016-03-28 15:44:55,528 ERROR [Log] Logout Image - having xpath '//span[@class='gb_Za gbii']'  click failed  - org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//span[@class='gb_Za gbii']"}
+Command duration or timeout: 10.13 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.0', revision: 'b7b081a4f1289f17e8ecd38bc67e137c2a12e34a', time: '2015-10-07 09:50:14'
+System info: host: 'Newt-Rnt09', ip: '192.168.1.43', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: c90b66f6-ca16-4a13-a6f8-db7d8d14f9b8
+*** Element info: {Using=xpath, value=//span[@class='gb_Za gbii']} 
+2016-03-28 15:44:59,165 INFO  [Log] GMAIL_LOGIN :: afterClass() method invoked... 
+2016-03-28 15:44:59,165 INFO  [Log] Gmail :: App Logout () method invoked... 
+2016-03-28 15:44:59,375 ERROR [Log] Sign Out Button - having xpath '//a[text()='Sign out']'  click failed  - org.openqa.selenium.ElementNotVisibleException: Element is not currently visible and so may not be interacted with
+Command duration or timeout: 10.10 seconds
+Build info: version: '2.48.0', revision: 'b7b081a4f1289f17e8ecd38bc67e137c2a12e34a', time: '2015-10-07 09:50:14'
+System info: host: 'Newt-Rnt09', ip: '192.168.1.43', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 8cce1474-f5bd-4d62-864b-5351bf1ef41a 
+2016-03-28 15:44:59,375 INFO  [Log] Gmail :: App Logout () :: Logout Successfull... 
+2016-03-28 15:44:59,383 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-03-28 15:44:59,383 INFO  [Log] X 
+2016-03-28 15:44:59,383 INFO  [Log] X 
+2016-03-28 15:44:59,383 INFO  [Log] X 
+2016-03-28 15:44:59,383 INFO  [Log] X 
+2016-03-28 15:45:08,721 ERROR [Log] Sign Out Button - having xpath '//a[text()='Sign out']'  click failed  - org.openqa.selenium.ElementNotVisibleException: Element is not currently visible and so may not be interacted with
+Command duration or timeout: 10.03 seconds
+Build info: version: '2.48.0', revision: 'b7b081a4f1289f17e8ecd38bc67e137c2a12e34a', time: '2015-10-07 09:50:14'
+System info: host: 'Newt-Rnt09', ip: '192.168.1.43', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: c90b66f6-ca16-4a13-a6f8-db7d8d14f9b8 
+2016-03-28 15:45:08,721 INFO  [Log] Gmail :: App Logout () :: Logout Successfull... 
+2016-03-28 15:45:08,729 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-03-28 15:45:08,730 INFO  [Log] X 
+2016-03-28 15:45:08,730 INFO  [Log] X 
+2016-03-28 15:45:08,730 INFO  [Log] X 
+2016-03-28 15:45:08,730 INFO  [Log] X 
+2016-03-28 15:45:09,330 ERROR [Log] Logout Image - having xpath '//span[@class='gb_Za gbii']'  click failed  - org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//span[@class='gb_Za gbii']"}
+Command duration or timeout: 10.08 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.0', revision: 'b7b081a4f1289f17e8ecd38bc67e137c2a12e34a', time: '2015-10-07 09:50:14'
+System info: host: 'Newt-Rnt09', ip: '192.168.1.43', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: ff36b474-d111-48f5-b245-4f17f5fb3757
+*** Element info: {Using=xpath, value=//span[@class='gb_Za gbii']} 
+2016-03-28 15:45:22,552 ERROR [Log] Sign Out Button - having xpath '//a[text()='Sign out']'  click failed  - org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//a[text()='Sign out']"}
+Command duration or timeout: 10.12 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.0', revision: 'b7b081a4f1289f17e8ecd38bc67e137c2a12e34a', time: '2015-10-07 09:50:14'
+System info: host: 'Newt-Rnt09', ip: '192.168.1.43', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: ff36b474-d111-48f5-b245-4f17f5fb3757
+*** Element info: {Using=xpath, value=//a[text()='Sign out']} 
+2016-03-28 15:45:22,553 INFO  [Log] Gmail :: App Logout () :: Logout Successfull... 
+2016-03-28 15:45:22,560 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-03-28 15:45:22,560 INFO  [Log] X 
+2016-03-28 15:45:22,560 INFO  [Log] X 
+2016-03-28 15:45:22,560 INFO  [Log] X 
+2016-03-28 15:45:22,560 INFO  [Log] X 
+2016-03-28 15:45:22,807 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Start Execution       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-03-28 15:45:22,807 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-03-28 15:45:22,807 INFO  [Log] GMAIL_LOGIN :: beforeClass() method invoked... 
+2016-03-28 15:45:22,851 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Start Execution       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-03-28 15:45:22,851 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-03-28 15:45:22,851 INFO  [Log] GMAIL_LOGIN :: beforeClass() method invoked... 
+2016-03-28 15:45:22,884 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Start Execution       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-03-28 15:45:22,884 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-03-28 15:45:22,884 INFO  [Log] GMAIL_LOGIN :: beforeClass() method invoked... 
+2016-03-28 15:45:22,895 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Start Execution       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-03-28 15:45:22,895 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-03-28 15:45:22,895 INFO  [Log] GMAIL_LOGIN :: beforeClass() method invoked... 
+2016-03-28 15:45:22,926 INFO  [Log] Executing Test Case TC_02 
+2016-03-28 15:45:22,926 INFO  [Log] Launching url 
+2016-03-28 15:45:22,943 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Start Execution       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-03-28 15:45:22,943 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-03-28 15:45:22,943 INFO  [Log] GMAIL_LOGIN :: beforeClass() method invoked... 
+2016-03-28 15:45:22,833 INFO  [Log] Executing Test Case TC_03 
+2016-03-28 15:45:22,950 INFO  [Log] Launching url 
+2016-03-28 15:45:22,876 INFO  [Log] Executing Test Case TC_05 
+2016-03-28 15:45:22,995 INFO  [Log] Launching url 
+2016-03-28 15:45:22,981 INFO  [Log] Executing Test Case TC_01 
+2016-03-28 15:45:22,996 INFO  [Log] Launching url 
+2016-03-28 15:45:22,964 INFO  [Log] Executing Test Case TC_04 
+2016-03-28 15:45:22,997 INFO  [Log] Launching url 
+2016-03-28 15:45:27,607 INFO  [Log] New driver instantiated 
+2016-03-28 15:45:33,816 INFO  [Log] New driver instantiated 
+2016-03-28 15:45:34,568 INFO  [Log] Gmail :: URL launch successfull... 
+2016-03-28 15:45:36,982 INFO  [Log] Gmail :: App login invoked ()... 
+2016-03-28 15:45:38,385 INFO  [Log] Data  'newtdemo' entered sucessfully in the edit box 
+2016-03-28 15:45:38,504 INFO  [Log] login_next_btn - having xpath '//input[@id='next']' clicked sucessfully 
+2016-03-28 15:45:41,388 INFO  [Log] New driver instantiated 
+2016-03-28 15:45:41,820 INFO  [Log] Data  'Newtglobal@123' entered sucessfully in the edit box 
+2016-03-28 15:45:42,372 INFO  [Log] signin_btn - having xpath '//input[@id='signIn']' clicked sucessfully 
+2016-03-28 15:45:48,277 INFO  [Log] New driver instantiated 
+2016-03-28 15:45:50,127 INFO  [Log] Gmail :: URL launch successfull... 
+2016-03-28 15:45:50,459 INFO  [Log] Gmail :: App login invoked ()... 
+2016-03-28 15:45:50,913 INFO  [Log] Data  'newtdemo' entered sucessfully in the edit box 
+2016-03-28 15:45:51,103 INFO  [Log] login_next_btn - having xpath '//input[@id='next']' clicked sucessfully 
+2016-03-28 15:45:54,361 INFO  [Log] Data  'Newtglobal@123' entered sucessfully in the edit box 
+2016-03-28 15:45:55,189 INFO  [Log] signin_btn - having xpath '//input[@id='signIn']' clicked sucessfully 
+2016-03-28 15:45:55,684 INFO  [Log] GMAIL_LOGIN :: afterClass() method invoked... 
+2016-03-28 15:45:55,684 INFO  [Log] Gmail :: App Logout () method invoked... 
+2016-03-28 15:45:59,999 INFO  [Log] New driver instantiated 
+2016-03-28 15:46:05,992 ERROR [Log] Logout Image - having xpath '//span[@class='gb_Za gbii']'  click failed  - org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//span[@class='gb_Za gbii']"}
+Command duration or timeout: 10.10 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.0', revision: 'b7b081a4f1289f17e8ecd38bc67e137c2a12e34a', time: '2015-10-07 09:50:14'
+System info: host: 'Newt-Rnt09', ip: '192.168.1.43', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: d0c89a76-1088-4d50-ba51-e137827fa385
+*** Element info: {Using=xpath, value=//span[@class='gb_Za gbii']} 
+2016-03-28 15:46:10,019 INFO  [Log] GMAIL_LOGIN :: afterClass() method invoked... 
+2016-03-28 15:46:10,019 INFO  [Log] Gmail :: App Logout () method invoked... 
+2016-03-28 15:46:19,249 ERROR [Log] Sign Out Button - having xpath '//a[text()='Sign out']'  click failed  - org.openqa.selenium.ElementNotVisibleException: Element is not currently visible and so may not be interacted with
+Command duration or timeout: 10.11 seconds
+Build info: version: '2.48.0', revision: 'b7b081a4f1289f17e8ecd38bc67e137c2a12e34a', time: '2015-10-07 09:50:14'
+System info: host: 'Newt-Rnt09', ip: '192.168.1.43', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: d0c89a76-1088-4d50-ba51-e137827fa385 
+2016-03-28 15:46:19,250 INFO  [Log] Gmail :: App Logout () :: Logout Successfull... 
+2016-03-28 15:46:19,263 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-03-28 15:46:19,263 INFO  [Log] X 
+2016-03-28 15:46:19,263 INFO  [Log] X 
+2016-03-28 15:46:19,263 INFO  [Log] X 
+2016-03-28 15:46:19,263 INFO  [Log] X 
+2016-03-28 15:46:20,201 ERROR [Log] Logout Image - having xpath '//span[@class='gb_Za gbii']'  click failed  - org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//span[@class='gb_Za gbii']"}
+Command duration or timeout: 10.03 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.0', revision: 'b7b081a4f1289f17e8ecd38bc67e137c2a12e34a', time: '2015-10-07 09:50:14'
+System info: host: 'Newt-Rnt09', ip: '192.168.1.43', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 687bdbc2-6a2e-4e5f-8eaf-3bb957c20973
+*** Element info: {Using=xpath, value=//span[@class='gb_Za gbii']} 
+2016-03-28 15:46:33,435 ERROR [Log] Sign Out Button - having xpath '//a[text()='Sign out']'  click failed  - org.openqa.selenium.ElementNotVisibleException: Element is not currently visible and so may not be interacted with
+Command duration or timeout: 10.07 seconds
+Build info: version: '2.48.0', revision: 'b7b081a4f1289f17e8ecd38bc67e137c2a12e34a', time: '2015-10-07 09:50:14'
+System info: host: 'Newt-Rnt09', ip: '192.168.1.43', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 687bdbc2-6a2e-4e5f-8eaf-3bb957c20973 
+2016-03-28 15:46:33,435 INFO  [Log] Gmail :: App Logout () :: Logout Successfull... 
+2016-03-28 15:46:33,443 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-03-28 15:46:33,443 INFO  [Log] X 
+2016-03-28 15:46:33,443 INFO  [Log] X 
+2016-03-28 15:46:33,443 INFO  [Log] X 
+2016-03-28 15:46:33,443 INFO  [Log] X 
+2016-03-28 15:46:36,272 INFO  [Log] Gmail :: URL launch successfull... 
+2016-03-28 15:46:36,799 INFO  [Log] Gmail :: App login invoked ()... 
+2016-03-28 15:46:37,050 INFO  [Log] Data  'newtdemo' entered sucessfully in the edit box 
+2016-03-28 15:46:37,149 INFO  [Log] login_next_btn - having xpath '//input[@id='next']' clicked sucessfully 
+2016-03-28 15:46:40,345 INFO  [Log] Data  'Newtglobal@123' entered sucessfully in the edit box 
+2016-03-28 15:46:41,083 INFO  [Log] signin_btn - having xpath '//input[@id='signIn']' clicked sucessfully 
+2016-03-28 15:46:45,565 INFO  [Log] Gmail :: URL launch successfull... 
+2016-03-28 15:46:45,958 INFO  [Log] Gmail :: App login invoked ()... 
+2016-03-28 15:46:46,895 INFO  [Log] Data  'newtdemo' entered sucessfully in the edit box 
+2016-03-28 15:46:47,014 INFO  [Log] login_next_btn - having xpath '//input[@id='next']' clicked sucessfully 
+2016-03-28 15:46:50,239 INFO  [Log] Data  'Newtglobal@123' entered sucessfully in the edit box 
+2016-03-28 15:46:50,906 INFO  [Log] signin_btn - having xpath '//input[@id='signIn']' clicked sucessfully 
+2016-03-28 15:46:54,753 INFO  [Log] GMAIL_LOGIN :: afterClass() method invoked... 
+2016-03-28 15:46:54,753 INFO  [Log] Gmail :: App Logout () method invoked... 
+2016-03-28 15:47:04,094 INFO  [Log] GMAIL_LOGIN :: afterClass() method invoked... 
+2016-03-28 15:47:04,094 INFO  [Log] Gmail :: App Logout () method invoked... 
+2016-03-28 15:47:05,522 ERROR [Log] Logout Image - having xpath '//span[@class='gb_Za gbii']'  click failed  - org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//span[@class='gb_Za gbii']"}
+Command duration or timeout: 10.62 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.0', revision: 'b7b081a4f1289f17e8ecd38bc67e137c2a12e34a', time: '2015-10-07 09:50:14'
+System info: host: 'Newt-Rnt09', ip: '192.168.1.43', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 8413bb21-ff2b-4dbb-8e97-21789fb5d717
+*** Element info: {Using=xpath, value=//span[@class='gb_Za gbii']} 
+2016-03-28 15:47:14,570 ERROR [Log] Logout Image - having xpath '//span[@class='gb_Za gbii']'  click failed  - org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//span[@class='gb_Za gbii']"}
+Command duration or timeout: 10.11 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.0', revision: 'b7b081a4f1289f17e8ecd38bc67e137c2a12e34a', time: '2015-10-07 09:50:14'
+System info: host: 'Newt-Rnt09', ip: '192.168.1.43', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: bd55ccb6-a3ee-433b-a9e2-816dc844700e
+*** Element info: {Using=xpath, value=//span[@class='gb_Za gbii']} 
+2016-03-28 15:47:18,710 ERROR [Log] Sign Out Button - having xpath '//a[text()='Sign out']'  click failed  - org.openqa.selenium.ElementNotVisibleException: Element is not currently visible and so may not be interacted with
+Command duration or timeout: 10.02 seconds
+Build info: version: '2.48.0', revision: 'b7b081a4f1289f17e8ecd38bc67e137c2a12e34a', time: '2015-10-07 09:50:14'
+System info: host: 'Newt-Rnt09', ip: '192.168.1.43', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 8413bb21-ff2b-4dbb-8e97-21789fb5d717 
+2016-03-28 15:47:18,711 INFO  [Log] Gmail :: App Logout () :: Logout Successfull... 
+2016-03-28 15:47:18,719 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-03-28 15:47:18,719 INFO  [Log] X 
+2016-03-28 15:47:18,719 INFO  [Log] X 
+2016-03-28 15:47:18,719 INFO  [Log] X 
+2016-03-28 15:47:18,719 INFO  [Log] X 
+2016-03-28 15:47:24,223 INFO  [Log] Gmail :: URL launch successfull... 
+2016-03-28 15:47:25,636 INFO  [Log] Gmail :: App login invoked ()... 
+2016-03-28 15:47:26,361 INFO  [Log] Data  'newtdemo' entered sucessfully in the edit box 
+2016-03-28 15:47:26,495 INFO  [Log] login_next_btn - having xpath '//input[@id='next']' clicked sucessfully 
+2016-03-28 15:47:27,823 ERROR [Log] Sign Out Button - having xpath '//a[text()='Sign out']'  click failed  - org.openqa.selenium.ElementNotVisibleException: Element is not currently visible and so may not be interacted with
+Command duration or timeout: 10.08 seconds
+Build info: version: '2.48.0', revision: 'b7b081a4f1289f17e8ecd38bc67e137c2a12e34a', time: '2015-10-07 09:50:14'
+System info: host: 'Newt-Rnt09', ip: '192.168.1.43', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: bd55ccb6-a3ee-433b-a9e2-816dc844700e 
+2016-03-28 15:47:27,823 INFO  [Log] Gmail :: App Logout () :: Logout Successfull... 
+2016-03-28 15:47:27,832 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-03-28 15:47:27,832 INFO  [Log] X 
+2016-03-28 15:47:27,832 INFO  [Log] X 
+2016-03-28 15:47:27,832 INFO  [Log] X 
+2016-03-28 15:47:27,833 INFO  [Log] X 
+2016-03-28 15:47:29,666 INFO  [Log] Data  'Newtglobal@123' entered sucessfully in the edit box 
+2016-03-28 15:47:30,194 INFO  [Log] signin_btn - having xpath '//input[@id='signIn']' clicked sucessfully 
+2016-03-28 15:47:43,490 INFO  [Log] GMAIL_LOGIN :: afterClass() method invoked... 
+2016-03-28 15:47:43,490 INFO  [Log] Gmail :: App Logout () method invoked... 
+2016-03-28 15:47:53,696 ERROR [Log] Logout Image - having xpath '//span[@class='gb_Za gbii']'  click failed  - org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//span[@class='gb_Za gbii']"}
+Command duration or timeout: 10.09 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.0', revision: 'b7b081a4f1289f17e8ecd38bc67e137c2a12e34a', time: '2015-10-07 09:50:14'
+System info: host: 'Newt-Rnt09', ip: '192.168.1.43', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: e80e089e-9b18-4ebc-9362-984ac7e8a83d
+*** Element info: {Using=xpath, value=//span[@class='gb_Za gbii']} 
+2016-03-28 15:48:06,887 ERROR [Log] Sign Out Button - having xpath '//a[text()='Sign out']'  click failed  - org.openqa.selenium.ElementNotVisibleException: Element is not currently visible and so may not be interacted with
+Command duration or timeout: 10.03 seconds
+Build info: version: '2.48.0', revision: 'b7b081a4f1289f17e8ecd38bc67e137c2a12e34a', time: '2015-10-07 09:50:14'
+System info: host: 'Newt-Rnt09', ip: '192.168.1.43', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: e80e089e-9b18-4ebc-9362-984ac7e8a83d 
+2016-03-28 15:48:06,888 INFO  [Log] Gmail :: App Logout () :: Logout Successfull... 
+2016-03-28 15:48:06,896 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-03-28 15:48:06,896 INFO  [Log] X 
+2016-03-28 15:48:06,896 INFO  [Log] X 
+2016-03-28 15:48:06,896 INFO  [Log] X 
+2016-03-28 15:48:06,896 INFO  [Log] X 
+2016-03-28 15:49:30,922 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Start Execution       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-03-28 15:49:30,924 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-03-28 15:49:30,924 INFO  [Log] GMAIL_LOGIN :: beforeClass() method invoked... 
+2016-03-28 15:49:30,927 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Start Execution       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-03-28 15:49:30,927 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-03-28 15:49:30,927 INFO  [Log] GMAIL_LOGIN :: beforeClass() method invoked... 
+2016-03-28 15:49:30,929 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Start Execution       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-03-28 15:49:30,929 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-03-28 15:49:30,929 INFO  [Log] GMAIL_LOGIN :: beforeClass() method invoked... 
+2016-03-28 15:49:30,931 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Start Execution       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-03-28 15:49:30,931 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-03-28 15:49:30,931 INFO  [Log] GMAIL_LOGIN :: beforeClass() method invoked... 
+2016-03-28 15:49:30,921 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Start Execution       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-03-28 15:49:30,931 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-03-28 15:49:30,931 INFO  [Log] GMAIL_LOGIN :: beforeClass() method invoked... 
+2016-03-28 15:49:31,562 INFO  [Log] Executing Test Case TC_03 
+2016-03-28 15:49:31,563 INFO  [Log] Launching url 
+2016-03-28 15:49:31,573 INFO  [Log] Executing Test Case TC_01 
+2016-03-28 15:49:31,573 INFO  [Log] Launching url 
+2016-03-28 15:49:31,582 INFO  [Log] Executing Test Case TC_02 
+2016-03-28 15:49:31,582 INFO  [Log] Launching url 
+2016-03-28 15:49:31,606 INFO  [Log] Executing Test Case TC_05 
+2016-03-28 15:49:31,606 INFO  [Log] Launching url 
+2016-03-28 15:49:31,614 INFO  [Log] Executing Test Case TC_04 
+2016-03-28 15:49:31,614 INFO  [Log] Launching url 
+2016-03-28 15:49:37,294 INFO  [Log] New driver instantiated 
+2016-03-28 15:49:42,060 INFO  [Log] Gmail :: URL launch successfull... 
+2016-03-28 15:49:43,244 INFO  [Log] New driver instantiated 
+2016-03-28 15:49:45,901 INFO  [Log] Gmail :: App login invoked ()... 
+2016-03-28 15:49:46,188 INFO  [Log] Data  'newtdemo' entered sucessfully in the edit box 
+2016-03-28 15:49:46,304 INFO  [Log] login_next_btn - having xpath '//input[@id='next']' clicked sucessfully 
+2016-03-28 15:49:48,842 INFO  [Log] New driver instantiated 
+2016-03-28 15:49:49,689 INFO  [Log] Data  'Newtglobal@123' entered sucessfully in the edit box 
+2016-03-28 15:49:50,583 INFO  [Log] signin_btn - having xpath '//input[@id='signIn']' clicked sucessfully 
+2016-03-28 15:49:56,250 INFO  [Log] New driver instantiated 
+2016-03-28 15:50:01,924 INFO  [Log] Gmail :: URL launch successfull... 
+2016-03-28 15:50:02,523 INFO  [Log] Gmail :: App login invoked ()... 
+2016-03-28 15:50:04,490 INFO  [Log] Data  'newtdemo' entered sucessfully in the edit box 
+2016-03-28 15:50:04,689 INFO  [Log] login_next_btn - having xpath '//input[@id='next']' clicked sucessfully 
+2016-03-28 15:50:04,855 INFO  [Log] GMAIL_LOGIN :: afterClass() method invoked... 
+2016-03-28 15:50:04,856 INFO  [Log] Gmail :: App Logout () method invoked... 
+2016-03-28 15:50:05,694 INFO  [Log] New driver instantiated 
+2016-03-28 15:50:07,922 INFO  [Log] Data  'Newtglobal@123' entered sucessfully in the edit box 
+2016-03-28 15:50:08,703 INFO  [Log] signin_btn - having xpath '//input[@id='signIn']' clicked sucessfully 
+2016-03-28 15:50:10,077 INFO  [Log] Gmail :: URL launch successfull... 
+2016-03-28 15:50:10,576 INFO  [Log] Gmail :: App login invoked ()... 
+2016-03-28 15:50:11,411 INFO  [Log] Data  'newtdemo' entered sucessfully in the edit box 
+2016-03-28 15:50:11,572 INFO  [Log] login_next_btn - having xpath '//input[@id='next']' clicked sucessfully 
+2016-03-28 15:50:14,859 INFO  [Log] Data  'Newtglobal@123' entered sucessfully in the edit box 
+2016-03-28 15:50:15,808 INFO  [Log] signin_btn - having xpath '//input[@id='signIn']' clicked sucessfully 
+2016-03-28 15:50:16,075 INFO  [Log] Gmail :: URL launch successfull... 
+2016-03-28 15:50:16,200 ERROR [Log] Logout Image - having xpath '//span[@class='gb_Za gbii']'  click failed  - org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//span[@class='gb_Za gbii']"}
+Command duration or timeout: 10.69 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.0', revision: 'b7b081a4f1289f17e8ecd38bc67e137c2a12e34a', time: '2015-10-07 09:50:14'
+System info: host: 'Newt-Rnt09', ip: '192.168.1.43', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 2ce89f86-2a43-4a78-aaf8-c9759bcee757
+*** Element info: {Using=xpath, value=//span[@class='gb_Za gbii']} 
+2016-03-28 15:50:16,589 INFO  [Log] Gmail :: App login invoked ()... 
+2016-03-28 15:50:18,063 INFO  [Log] Data  'newtdemo' entered sucessfully in the edit box 
+2016-03-28 15:50:18,360 INFO  [Log] login_next_btn - having xpath '//input[@id='next']' clicked sucessfully 
+2016-03-28 15:50:21,615 INFO  [Log] Data  'Newtglobal@123' entered sucessfully in the edit box 
+2016-03-28 15:50:22,430 INFO  [Log] signin_btn - having xpath '//input[@id='signIn']' clicked sucessfully 
+2016-03-28 15:50:22,974 INFO  [Log] GMAIL_LOGIN :: afterClass() method invoked... 
+2016-03-28 15:50:22,974 INFO  [Log] Gmail :: App Logout () method invoked... 
+2016-03-28 15:50:28,913 INFO  [Log] Gmail :: URL launch successfull... 
+2016-03-28 15:50:29,549 INFO  [Log] Gmail :: App login invoked ()... 
+2016-03-28 15:50:29,689 ERROR [Log] Sign Out Button - having xpath '//a[text()='Sign out']'  click failed  - org.openqa.selenium.ElementNotVisibleException: Element is not currently visible and so may not be interacted with
+Command duration or timeout: 10.06 seconds
+Build info: version: '2.48.0', revision: 'b7b081a4f1289f17e8ecd38bc67e137c2a12e34a', time: '2015-10-07 09:50:14'
+System info: host: 'Newt-Rnt09', ip: '192.168.1.43', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 2ce89f86-2a43-4a78-aaf8-c9759bcee757 
+2016-03-28 15:50:29,689 INFO  [Log] Gmail :: App Logout () :: Logout Successfull... 
+2016-03-28 15:50:29,777 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-03-28 15:50:29,779 INFO  [Log] X 
+2016-03-28 15:50:29,779 INFO  [Log] X 
+2016-03-28 15:50:29,779 INFO  [Log] X 
+2016-03-28 15:50:29,779 INFO  [Log] X 
+2016-03-28 15:50:32,732 INFO  [Log] GMAIL_LOGIN :: afterClass() method invoked... 
+2016-03-28 15:50:32,732 INFO  [Log] Gmail :: App Logout () method invoked... 
+2016-03-28 15:50:32,926 INFO  [Log] Data  'newtdemo' entered sucessfully in the edit box 
+2016-03-28 15:50:33,249 INFO  [Log] login_next_btn - having xpath '//input[@id='next']' clicked sucessfully 
+2016-03-28 15:50:34,323 ERROR [Log] Logout Image - having xpath '//span[@class='gb_Za gbii']'  click failed  - org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//span[@class='gb_Za gbii']"}
+Command duration or timeout: 10.93 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.0', revision: 'b7b081a4f1289f17e8ecd38bc67e137c2a12e34a', time: '2015-10-07 09:50:14'
+System info: host: 'Newt-Rnt09', ip: '192.168.1.43', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 5d9cc15f-e61c-407e-8bdd-17712309675c
+*** Element info: {Using=xpath, value=//span[@class='gb_Za gbii']} 
+2016-03-28 15:50:37,580 INFO  [Log] Data  'Newtglobal@123' entered sucessfully in the edit box 
+2016-03-28 15:50:38,762 INFO  [Log] signin_btn - having xpath '//input[@id='signIn']' clicked sucessfully 
+2016-03-28 15:50:39,118 INFO  [Log] GMAIL_LOGIN :: afterClass() method invoked... 
+2016-03-28 15:50:39,118 INFO  [Log] Gmail :: App Logout () method invoked... 
+2016-03-28 15:50:43,930 ERROR [Log] Logout Image - having xpath '//span[@class='gb_Za gbii']'  click failed  - org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//span[@class='gb_Za gbii']"}
+Command duration or timeout: 11.08 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.0', revision: 'b7b081a4f1289f17e8ecd38bc67e137c2a12e34a', time: '2015-10-07 09:50:14'
+System info: host: 'Newt-Rnt09', ip: '192.168.1.43', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 85204a9c-b055-47ff-b365-b7fa25d76371
+*** Element info: {Using=xpath, value=//span[@class='gb_Za gbii']} 
+2016-03-28 15:50:47,614 ERROR [Log] Sign Out Button - having xpath '//a[text()='Sign out']'  click failed  - org.openqa.selenium.ElementNotVisibleException: Element is not currently visible and so may not be interacted with
+Command duration or timeout: 10.10 seconds
+Build info: version: '2.48.0', revision: 'b7b081a4f1289f17e8ecd38bc67e137c2a12e34a', time: '2015-10-07 09:50:14'
+System info: host: 'Newt-Rnt09', ip: '192.168.1.43', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 5d9cc15f-e61c-407e-8bdd-17712309675c 
+2016-03-28 15:50:47,614 INFO  [Log] Gmail :: App Logout () :: Logout Successfull... 
+2016-03-28 15:50:47,624 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-03-28 15:50:47,624 INFO  [Log] X 
+2016-03-28 15:50:47,624 INFO  [Log] X 
+2016-03-28 15:50:47,624 INFO  [Log] X 
+2016-03-28 15:50:47,624 INFO  [Log] X 
+2016-03-28 15:50:49,415 ERROR [Log] Logout Image - having xpath '//span[@class='gb_Za gbii']'  click failed  - org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//span[@class='gb_Za gbii']"}
+Command duration or timeout: 10.11 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.0', revision: 'b7b081a4f1289f17e8ecd38bc67e137c2a12e34a', time: '2015-10-07 09:50:14'
+System info: host: 'Newt-Rnt09', ip: '192.168.1.43', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: e84fa0c8-6713-407b-b24d-563b13c51d11
+*** Element info: {Using=xpath, value=//span[@class='gb_Za gbii']} 
+2016-03-28 15:50:55,964 INFO  [Log] GMAIL_LOGIN :: afterClass() method invoked... 
+2016-03-28 15:50:55,964 INFO  [Log] Gmail :: App Logout () method invoked... 
+2016-03-28 15:50:57,185 ERROR [Log] Sign Out Button - having xpath '//a[text()='Sign out']'  click failed  - org.openqa.selenium.ElementNotVisibleException: Element is not currently visible and so may not be interacted with
+Command duration or timeout: 10.10 seconds
+Build info: version: '2.48.0', revision: 'b7b081a4f1289f17e8ecd38bc67e137c2a12e34a', time: '2015-10-07 09:50:14'
+System info: host: 'Newt-Rnt09', ip: '192.168.1.43', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 85204a9c-b055-47ff-b365-b7fa25d76371 
+2016-03-28 15:50:57,186 INFO  [Log] Gmail :: App Logout () :: Logout Successfull... 
+2016-03-28 15:50:57,198 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-03-28 15:50:57,198 INFO  [Log] X 
+2016-03-28 15:50:57,198 INFO  [Log] X 
+2016-03-28 15:50:57,198 INFO  [Log] X 
+2016-03-28 15:50:57,198 INFO  [Log] X 
+2016-03-28 15:51:03,617 ERROR [Log] Sign Out Button - having xpath '//a[text()='Sign out']'  click failed  - org.openqa.selenium.ElementNotVisibleException: Element is not currently visible and so may not be interacted with
+Command duration or timeout: 10.04 seconds
+Build info: version: '2.48.0', revision: 'b7b081a4f1289f17e8ecd38bc67e137c2a12e34a', time: '2015-10-07 09:50:14'
+System info: host: 'Newt-Rnt09', ip: '192.168.1.43', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: e84fa0c8-6713-407b-b24d-563b13c51d11 
+2016-03-28 15:51:03,617 INFO  [Log] Gmail :: App Logout () :: Logout Successfull... 
+2016-03-28 15:51:03,626 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-03-28 15:51:03,626 INFO  [Log] X 
+2016-03-28 15:51:03,626 INFO  [Log] X 
+2016-03-28 15:51:03,626 INFO  [Log] X 
+2016-03-28 15:51:03,626 INFO  [Log] X 
+2016-03-28 15:51:06,292 ERROR [Log] Logout Image - having xpath '//span[@class='gb_Za gbii']'  click failed  - org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//span[@class='gb_Za gbii']"}
+Command duration or timeout: 10.20 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.48.0', revision: 'b7b081a4f1289f17e8ecd38bc67e137c2a12e34a', time: '2015-10-07 09:50:14'
+System info: host: 'Newt-Rnt09', ip: '192.168.1.43', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: def05d39-17e0-42b6-9c76-de54169f2d5c
+*** Element info: {Using=xpath, value=//span[@class='gb_Za gbii']} 
+2016-03-28 15:51:19,549 ERROR [Log] Sign Out Button - having xpath '//a[text()='Sign out']'  click failed  - org.openqa.selenium.ElementNotVisibleException: Element is not currently visible and so may not be interacted with
+Command duration or timeout: 10.07 seconds
+Build info: version: '2.48.0', revision: 'b7b081a4f1289f17e8ecd38bc67e137c2a12e34a', time: '2015-10-07 09:50:14'
+System info: host: 'Newt-Rnt09', ip: '192.168.1.43', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=44.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: def05d39-17e0-42b6-9c76-de54169f2d5c 
+2016-03-28 15:51:19,550 INFO  [Log] Gmail :: App Logout () :: Logout Successfull... 
+2016-03-28 15:51:19,558 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-03-28 15:51:19,558 INFO  [Log] X 
+2016-03-28 15:51:19,558 INFO  [Log] X 
+2016-03-28 15:51:19,558 INFO  [Log] X 
+2016-03-28 15:51:19,559 INFO  [Log] X 

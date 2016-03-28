@@ -11,14 +11,14 @@
   <test name="TC_01">
     <parameter name="testCaseId" value="TC_01"/>
     <classes>
-      <class name="com.newt.selenium.modules.GmailLoginOne"/>
+      <class name="com.newt.selenium.modules.GmailLoginOnetest"/>
     </classes>
   </test> 
   	
   <test name="TC_02">
     <parameter name="testCaseId" value="TC_02"/>
     <classes>
-      <class name="com.newt.selenium.modules.GmailLoginTwo"/>
+      <class name="com.newt.selenium.modules.GmailLoginTwotest"/>
     </classes>
   </test> 
   
@@ -26,14 +26,14 @@
   <test name="TC_03">
     <parameter name="testCaseId" value="TC_03"/>
     <classes>
-      <class name="com.newt.selenium.modules.GmailLoginThree"/>
+      <class name="com.newt.selenium.modules.GmailLoginThreetest"/>
     </classes>
   </test> 
  
   <test name="TC_04">
     <parameter name="testCaseId" value="TC_04"/>
     <classes>
-      <class name="com.newt.selenium.modules.GmailLoginFour"/>
+      <class name="com.newt.selenium.modules.GmailLoginFourtest"/>
     </classes>
   </test> 
   
@@ -41,7 +41,7 @@
   <test name="TC_05">
     <parameter name="testCaseId" value="TC_05"/>
    <classes>
-      <class name="com.newt.selenium.modules.GmailLoginFive"/>
+      <class name="com.newt.selenium.modules.GmailLoginFivetest"/>
     </classes>
   </test> 
   
